@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SFAErrorMessageViewController">
+            <connections>
+                <outlet property="centerButton" destination="8ES-su-yg2" id="uDp-cj-fr4"/>
+                <outlet property="centerButtonTopConst" destination="Fcj-nj-sZ5" id="am9-kK-4SY"/>
+                <outlet property="errorMessage1" destination="vbE-GK-3jz" id="Tso-4Z-dZy"/>
+                <outlet property="errorMessage1TopConst" destination="byk-qg-pb9" id="3Qs-GQ-PTU"/>
+                <outlet property="errorMessage2" destination="Az5-5W-0hO" id="Rl7-3p-44u"/>
+                <outlet property="errorMessage2TopConst" destination="vMZ-9D-9Yk" id="a23-3J-Gbn"/>
+                <outlet property="errorMessage3" destination="AiH-dG-ipT" id="B6n-65-a7R"/>
+                <outlet property="errorMessage3TopConst" destination="c4W-0i-uue" id="YRw-av-ZtB"/>
+                <outlet property="errorMessage4" destination="oCM-AE-cUc" id="kWb-UZ-zvH"/>
+                <outlet property="errorMessage4TopConst" destination="sS7-T6-pJm" id="8fz-8D-7ae"/>
+                <outlet property="errorTitle" destination="xS9-WS-zfR" id="DtB-8K-uf0"/>
+                <outlet property="errorView" destination="ydz-dO-6HL" id="kVX-WV-Mtd"/>
+                <outlet property="leftButton" destination="TRn-6v-CwD" id="q8P-zO-psa"/>
+                <outlet property="leftButtonTopConst" destination="pPY-gJ-bQf" id="bk0-qj-QwM"/>
+                <outlet property="rightButton" destination="iYt-LF-yb9" id="7TY-CY-Non"/>
+                <outlet property="rightButtonTopConst" destination="YC8-1P-uCy" id="Jm2-bY-pHB"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" alpha="0.5" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ydz-dO-6HL">
+                    <rect key="frame" x="40" y="165" width="516" height="271"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No watch detected" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xS9-WS-zfR">
+                            <rect key="frame" x="24" y="24" width="468" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="BAV-Uv-nWz"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="BAV-Uv-nWz"/>
+                                </mask>
+                            </variation>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vbE-GK-3jz">
+                            <rect key="frame" x="24" y="68" width="468" height="29"/>
+                            <string key="text">• Make sure watch bluetooth is enabled. If there is no bluetooth icon on the display, press the lower right button to enable bluetooth and try again.</string>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="• Check watch battery level" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Az5-5W-0hO">
+                            <rect key="frame" x="24" y="117" width="468" height="15"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="• Keep watch and phone within bluetooth range" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AiH-dG-ipT">
+                            <rect key="frame" x="24" y="152" width="468" height="15"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oCM-AE-cUc">
+                            <rect key="frame" x="24" y="186" width="468" height="29"/>
+                            <string key="text">• If watch still cannot be detected, hold down the lower right button until the message ‘pairing info removed’ appears on the display and try again.</string>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TRn-6v-CwD">
+                            <rect key="frame" x="24" y="232" width="230" height="27"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="116" id="Sx8-yg-mXA"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
+                            <state key="normal" title="CANCEL">
+                                <color key="titleColor" red="0.1215686275" green="0.69803921570000005" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="Sx8-yg-mXA"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="leftButtonClicked:" destination="-1" eventType="touchUpInside" id="eyx-ZA-Y9w"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iYt-LF-yb9">
+                            <rect key="frame" x="262" y="232" width="230" height="27"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="119" id="h3H-uc-MRM"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
+                            <state key="normal" title="TRY AGAIN">
+                                <color key="titleColor" red="0.1215686275" green="0.69803921570000005" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="h3H-uc-MRM"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="rightButtonClicked:" destination="-1" eventType="touchUpInside" id="kZg-9o-EcQ"/>
+                            </connections>
+                        </button>
+                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8ES-su-yg2">
+                            <rect key="frame" x="24" y="232" width="468" height="27"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="116" id="bCS-GX-U3P"/>
+                                <constraint firstAttribute="height" constant="27" id="lS1-5g-bLj"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
+                            <state key="normal" title="CANCEL">
+                                <color key="titleColor" red="0.1215686275" green="0.69803921570000005" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="bCS-GX-U3P"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="centerButtonClicked:" destination="-1" eventType="touchUpInside" id="NmM-AD-i9o"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="vbE-GK-3jz" secondAttribute="trailing" constant="24" id="8Bx-ZG-GMi"/>
+                        <constraint firstItem="8ES-su-yg2" firstAttribute="top" secondItem="oCM-AE-cUc" secondAttribute="bottom" constant="17" id="Fcj-nj-sZ5"/>
+                        <constraint firstAttribute="trailing" secondItem="AiH-dG-ipT" secondAttribute="trailing" constant="24" id="IZm-ia-cYs"/>
+                        <constraint firstAttribute="trailing" secondItem="oCM-AE-cUc" secondAttribute="trailing" constant="24" id="JQF-Xm-7ld"/>
+                        <constraint firstAttribute="trailing" secondItem="8ES-su-yg2" secondAttribute="trailing" constant="24" id="UhE-Bn-dvd"/>
+                        <constraint firstAttribute="trailing" secondItem="Az5-5W-0hO" secondAttribute="trailing" constant="24" id="W6l-4S-Yab"/>
+                        <constraint firstAttribute="bottom" secondItem="iYt-LF-yb9" secondAttribute="bottom" constant="12" id="Wbl-l7-8TZ"/>
+                        <constraint firstItem="iYt-LF-yb9" firstAttribute="width" secondItem="TRn-6v-CwD" secondAttribute="width" id="Wvj-Om-Qgw"/>
+                        <constraint firstAttribute="trailing" secondItem="xS9-WS-zfR" secondAttribute="trailing" constant="24" id="Wyf-SQ-CGz"/>
+                        <constraint firstItem="iYt-LF-yb9" firstAttribute="top" secondItem="oCM-AE-cUc" secondAttribute="bottom" constant="17" id="YC8-1P-uCy"/>
+                        <constraint firstItem="vbE-GK-3jz" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="aZ3-GW-9zk"/>
+                        <constraint firstItem="vbE-GK-3jz" firstAttribute="top" secondItem="xS9-WS-zfR" secondAttribute="bottom" constant="24" id="byk-qg-pb9"/>
+                        <constraint firstItem="AiH-dG-ipT" firstAttribute="top" secondItem="Az5-5W-0hO" secondAttribute="bottom" constant="20" id="c4W-0i-uue"/>
+                        <constraint firstItem="xS9-WS-zfR" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="eqE-Ui-svj"/>
+                        <constraint firstItem="8ES-su-yg2" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="fEN-1b-rMy"/>
+                        <constraint firstItem="oCM-AE-cUc" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="g3i-PV-CY9"/>
+                        <constraint firstItem="TRn-6v-CwD" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="i7b-7Z-egB"/>
+                        <constraint firstItem="iYt-LF-yb9" firstAttribute="height" secondItem="TRn-6v-CwD" secondAttribute="height" id="jeH-Uh-D6T"/>
+                        <constraint firstItem="Az5-5W-0hO" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="mQf-Tc-wve"/>
+                        <constraint firstItem="xS9-WS-zfR" firstAttribute="top" secondItem="ydz-dO-6HL" secondAttribute="top" constant="24" id="mnT-Ie-QET"/>
+                        <constraint firstAttribute="trailing" secondItem="iYt-LF-yb9" secondAttribute="trailing" constant="24" id="nL5-ko-AwR"/>
+                        <constraint firstItem="TRn-6v-CwD" firstAttribute="top" secondItem="oCM-AE-cUc" secondAttribute="bottom" constant="17" id="pPY-gJ-bQf"/>
+                        <constraint firstItem="iYt-LF-yb9" firstAttribute="leading" secondItem="TRn-6v-CwD" secondAttribute="trailing" constant="8" id="sAt-78-tT5"/>
+                        <constraint firstItem="oCM-AE-cUc" firstAttribute="top" secondItem="AiH-dG-ipT" secondAttribute="bottom" constant="19" id="sS7-T6-pJm"/>
+                        <constraint firstItem="Az5-5W-0hO" firstAttribute="top" secondItem="vbE-GK-3jz" secondAttribute="bottom" constant="20" id="vMZ-9D-9Yk"/>
+                        <constraint firstItem="AiH-dG-ipT" firstAttribute="leading" secondItem="ydz-dO-6HL" secondAttribute="leading" constant="24" id="yHd-5W-eVE"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="ydz-dO-6HL" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="56" id="LRG-iF-oSj"/>
+                <constraint firstAttribute="centerY" secondItem="ydz-dO-6HL" secondAttribute="centerY" id="YgS-lb-Apv"/>
+                <constraint firstItem="ydz-dO-6HL" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="40" id="mIe-MQ-CVj"/>
+                <constraint firstAttribute="trailing" secondItem="ydz-dO-6HL" secondAttribute="trailing" constant="44" id="v1m-aP-pYl"/>
+            </constraints>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="LRG-iF-oSj"/>
+                </mask>
+            </variation>
+        </view>
+    </objects>
+</document>

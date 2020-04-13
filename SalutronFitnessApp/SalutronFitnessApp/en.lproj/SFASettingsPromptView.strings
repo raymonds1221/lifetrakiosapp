@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "Watch"; ObjectID = "FX2-Yt-IVT"; */
+"FX2-Yt-IVT.normalTitle" = "Watch";
+
+/* Class = "IBUILabel"; text = "Do not show this again."; ObjectID = "VYk-dx-sVA"; */
+"VYk-dx-sVA.text" = "Do not show this again.";
+
+/* Class = "IBUIButton"; normalTitle = "App"; ObjectID = "kYW-0M-PQT"; */
+"kYW-0M-PQT.normalTitle" = "App";
+
+/* Class = "IBUILabel"; text = "We have detected that the settings on your watch are different than those on the app.  Select which settings should be saved on both."; ObjectID = "pwW-SK-YMN"; */
+"pwW-SK-YMN.text" = "We have detected that the settings on your watch are different than those on the app.  Select which settings should be saved on both.";

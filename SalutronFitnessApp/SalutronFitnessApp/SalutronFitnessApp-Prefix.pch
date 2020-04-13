@@ -1,0 +1,33 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+#import <CoreBluetooth/CoreBluetooth.h>
+#import <CoreData/CoreData.h>
+#import "SalutronSDK.h"
+#import "CorePlot-CocoaTouch.h"
+#import "Constants.h"
+#import "NSDate+Formatter.h"
+#import "NSString+Helper.h"
+#import "UIColor+ColorAdditions.h"
+#import "SFACalendarView.h"
+#import "NSMutableArray+Helper.h"
+#import "SFAWatch.h"
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    //#import "Flurry.h"
+    #import "SFALoggingFramework.h"
+    //#import "Logger.h"
+    #import "Constants.h"
+    #import "SFAUserDefaultsManager.h"
+static const DDLogLevel ddLogLevel = DDLogLevelInfo;//DDLogLevelError;
+#endif

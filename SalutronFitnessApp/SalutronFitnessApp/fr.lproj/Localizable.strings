@@ -1,0 +1,1187 @@
+/* 
+  Localizable.strings
+  SalutronFitnessApp
+
+  Created by Adrian Cayaco on 11/24/14.
+  Copyright (c) 2014 Raymond Sarmiento. All rights reserved.
+*/
+
+/* For the buttons */
+"Sign up" = "Inscription";
+"Sign in" = "Ouvrir une session";
+"Cancel" = "Annuler";
+"Try Again" = "Réessayer";
+"Try Again?" = "Essayer à nouveau?";
+"Try again" = "Réessayer";
+"Try again?" = "Essayer à nouveau?";
+"CONNECT TO DEVICE" = "Se connecter à l'appareil";
+"Device" = "appareil";
+
+/* possibe duplicates */
+"Save-2" = "Sauvegarder";
+"Save" = "Enregistrer";
+
+"Create account" = "Créer le compte";
+"CREATE ACCOUNT" = "CRÉER LE COMPTE";
+"OK" = "OK";
+"Ok" = "Ok";
+"Remind me later" = "Me rappeler plus tard";
+"Connect" = "Se connecter";
+"Disconnect" = "Se deconnecter";
+"ALLOW" = "AUTORISER";
+"DENY" = "REFUSER";
+"Send" = "Envoyer";
+"Continue" = "Continuer";
+"App" = "App";
+"Watch" = "Montre";
+
+/* Alerts */
+"Error" = "Erreur";
+"Reset Password" = "Réinitialiser le mot de passe";
+"RESET PASSWORD" = "RÉINITIALISER LE MOT DE PASSE";
+"Delete" = "Supprimer";
+"No internet" = "Pas d'Internet";
+
+"Incorrect input for first name and/or last name." = "Saisie incorrecte du prénom et/ou du nom.";
+"Please fill out all fields." = "Veuillez complèter tous les champs.";
+"Incorrect input for email." = "Saisie incorrecte de l'adresse de courriel.";
+"The email has already been taken." = "L'adresse de courriel est déjà prise.";
+"The password must be between 6 and 30 characters." = "Le mot de passe doit comporter entre 6 et 30 caractères.";
+"The selected email is invalid or does not exist." = "L'adresse de courriel sélectionnée n'est pas valide ou n'existe pas.";
+"The user credentials were incorrect." = "Les informations d'identification de l'utilisateur sont incorrectes.";
+"Don't forget to validate your email!" = "N'oubliez pas de valider votre adresse de courriel!";
+"Start and End times must be 30 minutes apart." = "Les temps de début et de fin doivent être séparées de 30 minutes.";
+"End time should not be earlier than the Start time." = "Le temps de fin ne doit pas être antérieure au temps de début.";
+"Start time and End time should not be similar." = "Le temps de début et l'heure de fin ne doivent pas être identiques.";
+"An email containing the instruction to reset your password has been sent to your email." = "Un message contenant les instructions permettant de réinitialiser votre mot de passe a été envoyé à votre adresse de courriel.";
+"Please enter a valid email address." = "Veuillez entrer une adresse de courriel valide.";
+"Please enter a valid email address" = "Veuillez entrer une adresse de courriel valide";
+"We can't find a user with that e-mail address." = "Nous ne trouvons pas d'utilisateur possédant cette adresse de courriel.";
+"Are you sure you want to delete this record?" = "Voulez-vous vraiment supprimer cet enregistrement?";
+"A sleep log exists between the start and end time." = "Un journal de sommeil existe entre l'heure de début et l'heure de fin.";
+"Please connect to the internet to delete watch." = "Connectez-vous à Internet pour supprimer la montre.";
+"Delete Watch" = "Supprimer Montre";
+
+"Are you sure you want to sign out?" = "Voulez-vous vraiment fermer la session?";
+"We have detected that your watch settings has changed. Please choose which settings would be saved." = "Nous avons détecté que les paramètres de votre montre avaient changé. Choisissez quels paramètres enregistrer.";
+"Do not show this again." = "Ne plus afficher ce message.";
+"Please complete the change password form." = "Remplissez le formulaire de changement de mot de passe.";
+"Incorrect password." = "Mot de passe incorrect.";
+"Passwords do not match." = "Les mots de passe ne correspondent pas.";
+"The Internet connection appears to be offline." = "Internet semble déconnectée.";
+
+/* Loading messages */
+"Registering" = "Enregistrement en cours";
+"Loggin In" = "Ouverture de session";
+"Fetching User Profile" = "Recherche du profil utilisateur";
+"Fetching Devices" = "Recherche des appareils";
+"Sending Data" = "Envoi des données";
+
+"Syncing data with your LifeTrak watch" = "Synchronisation des données avec votre montre LifeTrak";
+"Syncing data with your %@" = "Synchronisation des données avec votre %@";
+"Sync successful!"  = "Synchronisation réussie!";
+"We cannot find any LifeTrak watch" = "Nous ne trouvons pas de montre LifeTrak";
+"Device Disconnected." = "Appareil déconnecté.";
+"Restoring from Server" = "Restauration à partir du serveur";
+"Syncing to Server" = "Synchronisation avec le serveur";
+"Syncing to Server successful." = "Synchronisation avec le serveur réussie.";
+"Restore from Server successful." = "Restauration à partir du serveur réussie.";
+"Updating Profile" = "Mise à jour du profil";
+"Update Successful." = "Mise à jour réussie.";
+
+
+/* Welcome screen translations */
+/* Screenshots_R450_R2_20141022_Appl SCR_welcome screen-FINAL.ppt */
+
+/* For the logo */
+"Follow Your Heart" = "Suivez Votre Cœur";
+
+/*  */
+"Get instant feedback" = "Obtenez une réponse instantanée";
+"Always-on, graphical display of performance and goals" = "Graphique toujours actif des performances et objectifs";
+
+"Get the right number" = "Obtenez le nombre correct";
+"Calorie burn computed from motion and heart rate" = "Calories brûlées calculées en fonction du mouvement et du rythme cardiaque";
+
+"Wear and forget" = "Portez et oubliez";
+"Fully automated detection of sleep and wake cycles" = "Détection entièrement automatisée des cycles de sommeil et d'éveil";
+
+"Go anywhere, everywhere" = "Allez n'importe où, partout";
+"Individually tested to be waterproof to up to 30 meters" = "Testé étanche jusqu'à 30 mètres";
+
+
+/* Sign Up Syncing */
+/* Screenshots_R450_R2_20141022_Appl SCR_sign up-FINAL.ppt */
+"We can't find your LifeTrak device." = "Votre appareil LifeTrak est introuvable.";
+"We can't find your LifeTrak device" = "Votre appareil LifeTrak est introuvable";
+"Set up Device" = "Configuration de l'appareil";
+"Sync failed" = "La synchronisation a échoué.";
+
+/* Page 1 */
+/* need to change translation, different from powerpoint and source code */
+"1. Make sure Bluetooth is turned on, on your smartphone or tablet.\n2.  Make sure your device is nearby.\n3. Hold the bottom right button down to turn on Bluetooth (R450) or to begin syncing (C300, C410, R420)." = "1. Assurez-vous que Bluetooth est activé sur votre smartphone ou tablette.\n2. Assurez-vous que votre appareil est à proximité.\n3. Maintenez le bouton en bas à droite vers le bas pour activer le Bluetooth (R450) ou pour commencer la synchronisation (C300, C410, R420).";
+
+"1. Make sure Bluetooth is turned on, on your smartphone or tablet.\n2. Check that Bluetooth is active on your LifeTrak device.  If it is not, press and hold the lower right button to turn it on (R450) or activate pairing/syncing (C300, C410, R420)." = "1. Assurez-vous que Bluetooth est activé sur votre smartphone ou tablette.\n2. Vérifiez que Bluetooth est activé sur votre appareil LifeTrak. Si ce n'est pas le cas, appuyez et maintenez le bouton en bas à droite pour l'activer (R450) ou pour activer le jumelage / synchronisation (C300, C410, R420).";
+
+/* Page 2 */
+"1. Make sure your device is nearby" = "1. Vérifiez que votre appareil est proche.";
+"2. Make sure you press and hold bottom right button to begin syncing" = "2. Veillez à maintenir le bouton en bas à droite enfoncé pour commencer la synchronisation.";
+
+/* Page 4 */
+"Pair" = "Couplage";
+"Pairing Zone C410" = "Couplage: Zone C410";
+"Pairing Zone R420" = "Couplage: Zone R420";
+"Press and hold lower right button to begin updating." = "Maintenez le bouton en bas à droite enfoncé pour commencer la mise à jour.";
+"Make sure the bluetooth of the watch is turned on." = "Veillez à ce que Bluetooth soit activé sur la montre.";
+
+/* Page 5 */
+"Syncing" = "Synchronisation";
+
+/* Page 6 */
+"Syncing data with your LifeTrak watch. Status: %@" = "Synchronisation des données avec votre montre LifeTrak. État: %@";
+"FITNESS RESULTS" = "RÉSULTATS DU CONDITIONNEMENT";
+
+/* Page 7 */
+/* some data same with page 6. */
+"Syncing step goal" = "Synchronisation de l'objectif du nombre de pas";
+
+/* Page 8 */
+/* some data same with page 6. */
+"Syncing distance goal" = "Synchronisation de l'objectif de distance";
+
+/* Page 9 */
+/* some data same with page 6. */
+"Syncing calorie goal" = "Synchronisation de l'objectif de calories";
+
+/* Page 10 */
+/* some data same with page 6. */
+"Syncing calibration data" = "Synchronisation des données d'étalonnage";
+
+/* Page 11 */
+/* some data same with page 6. */
+"Syncing workout database" = "Synchronisation de la base de données des exercices";
+
+/* Page 12 */
+/* some data same with page 6. */
+"Syncing user profile" = "Synchronisation du profil utilisateur";
+
+/* Page 13 */
+"Sync success!" = "Synchronisation réussie!";
+
+/* Page 14 */
+"Verify your presonal details below." = "Vérifiez vos détails personnels ci-dessous.";
+
+"WEIGHT" = "POIDS";
+"HEIGHT" = "TAILLE";
+"BIRTHDAY" = "DATE DE NAISSANCE";
+"GENDER" = "SEXE";
+
+"Weight" = "Poids";
+"Height" = "Taille";
+"Birthday" = "Date de naissance";
+"Gender" = "Sexe";
+
+
+"Weight (lbs)" = "Poids (lbs)";
+"Height (ft)" = "Taille (ft)";
+"Birthday (DD/MM/YYYY)" = "Date de naissance (JJ/MM/YYYY)";
+
+"male" = "homme";
+"female" = "femme";
+
+"Male" = "Homme";
+"Female" = "Femme";
+
+"Your profile details will be used to calculate your fitness results." = "Les détails de votre profil seront utilisés pour calculer les résultats de votre conditionnement.";
+
+/* Page 15 */
+/* possible duplicate */
+/* title for a view */
+/* "Sign up" = "Inscription"; */
+"SIGN UP VIA FACEBOOK" = "S'INSCRIRE VIA FACEBOOK";
+"SIGN UP VIA EMAIL" = "S'INSCRIRE PAR COURRIEL";
+"First Name" = "Prénom";
+"Last Name" = "Nom";
+"Email" = "Courriel";
+"Password" = "Mot de passe";
+"First name" = "Prénom";
+"Last name" = "Nom";
+/* "Confirm Password" = "Confirmez le mot de passe"; */
+"I accept LifeTrak's Terms and Conditions" = "J'accepte les Conditions d'utilisation de LifeTrak";
+"Terms and Conditions" = "Conditions d'utilisation";
+
+/* Page 16 */
+/* terms and conditions french file: terms_french.html */
+/* to be encoded */
+
+/* Page 17 */
+"Server Sync" = "Synchronisation avec le serveur";
+"Now syncing..." = "Synchronisation en cours...";
+"uploading data to server" = "Téléchargement des données sur le serveur";
+"downloading data from server" = "Téléchargement des données du serveur";
+
+/* Sign in View */
+/* Screenshots_R450_R2_20141022_Appl SCR_sign in-FINAL.ppt */
+
+"SIGN IN VIA FACEBOOK" = "OUVRIR UNE SESSION VIA FACEBOOK";
+"SIGN IN VIA EMAIL" = "OUVRIR UNE SESSION PAR COURRIEL";
+
+/* possible duplicate */
+/* title for a view */
+/* "Sign in" = "Ouverture de session"; */
+
+"Remember me" = "Me mémoriser";
+"Forgot your password?" = "Mot de passe oublié?";
+"FORGOT YOUR PASSWORD?" = "MOT DE PASSE OUBLIÉ?";
+
+/* Settings Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_settings-FINAL.ppt */
+
+"Settings" = "Paramètres";
+
+/* Page 1 */
+"DD/MM/YY" = "JJ/MM/AA";
+"MM/DD/YY" = "MM/JJ/AA";
+"MMM/DD" = "MMM/JJ";
+"DD/MMM" = "JJ/MMM";
+
+/* Page 2 */
+"Auto Sync Alert" = "Alerte de synchronisation automatique";
+"Once a day" = "Une fois par jour";
+"Once a week" = "Une fois par semaine";
+"Twice a day" = "Deux fois par jour";
+"Four times a day" = "Quatre fois par jour";
+
+"Alert Settings" = "Paramètres des alertes";
+"Smart Calibration" = "Réglage intelligent";
+"Auto Sync Time" = "Heure de synchronisation automatique";
+
+/* Page 3 */
+"PREFERENCES" = "PRÉFÉRENCES";
+"Date Format" = "Format de date";
+"Time Format" = "Format des heures";
+"12HR" = "12H";
+"24HR" = "24H";
+"Unit" = "Unités";
+"IMPERIAL" = "IMPÉRIALES";
+"METRIC" = "MÉTRIQUES";
+"Watch Display" = "Affichage de la montre";
+"SIMPLE" = "SIMPLE";
+"FULL" = "COMPLET";
+"PROMPTS" = "INVITES";
+"Updated Settings" = "Paramètres mis à jour";
+
+"Yes" = "Oui";
+"No" = "Non";
+"YES" = "OUI";
+"NO" = "NON";
+
+"Notifications" = "Notifications";
+
+/* Page 4 */
+/* same as Sign Up Syncing, page 4 */
+
+/* Page 5 */
+/* Alert Settings = title same as Settings Page, page 2 */
+"Wake up alert" = "Alarme de réveil";
+"Day light alert" = "Alerte de lumière du jour";
+"Night light alert" = "Alerte de lumière de nuit";
+"Inactive alert" = "Alerte d'inactivité";
+
+/* Page 6 */
+/* Day Light Alert = title same as Settings Page, page 5 */
+"Status" = "État";
+"Exposure Level" = "Niveau d'exposition";
+"Exposure Duration" = "Durée d'exposition";
+"Start Time" = "Heure de début";
+"Start Time:" = "Heure de début:";
+"End Time" = "Heure de fin";
+"End Time:" = "Heure de fin:";
+"Alert Frequency" = "Fréquence des alertes";
+
+/* Page 7 */
+/* Day Light Alert = title same as Settings Page, page 5 */
+"Low" = "Faible";
+"Medium" = "Moyen";
+"High" = "Élevé";
+
+"LOW" = "FAIBLE";
+"MEDIUM" = "MOYEN";
+"HIGH" = "ÉLEVÉ";
+
+/* Page 11 */
+/* Inactive Alert = title same as Settings Page, page 5 */
+"Time Duration" = "Durée";
+"Steps Threshold" = "Seuil des pas";
+"steps" = "pas";
+
+/* Page 15 */
+/* Night Light Alert = title same as Settings Page, page 5 */
+
+/* Page 20 */
+"Always" = "Toujours";
+"Only when awake" = "Seulement lorsque réveillé";
+
+/* Page 21 */
+"Enable Notification" = "Activer les notifications";
+"Display on watch" = "Afficher sur la montre";
+"Choose what notifications to be displayed" = "Choisissez les notifications à afficher";
+"Incoming Call" = "Appel entrant";
+"Missed Call" = "Appel manqué";
+"SMS" = "SMS";
+/* Possible duplicate */
+"Mail" = "Courriel";
+"Voice Mail" = "Messagerie vocale";
+"Schedule" = "Calendrier";
+"News" = "Actualités";
+"Social" = "Social";
+
+/* Page 22 */
+/* "Smart Calibration" = "Étalonnage intelligent"; */
+/* Possible duplicate */
+"STEPS" = "PAS";
+"Steps" = "Pas";
+"Step"  = "Pas";
+"STEP"  = "PAS";
+"step"  = "pas";
+"Default" = "Par défaut";
+"DEFAULT" = "PAR DÉFAUT";
+"default" = "défaut";
+"Recommend for walking and running." = "Recommandé pour la marche ou la course.";
+"Option A" = "Option A";
+"Recommend for low intensity walking or mild jogging." = "Recommandée pour la marche ou la course de faible intensité.";
+"Option B" = "Option B";
+"Alternate sensing orientation if the above two options do not provide accurate enough step values." = "Autre orientation de capture si les deux options ci-dessus ne fournissent pas de mesures des pas suffisamment précises.";
+"DISTANCE" = "DISTANCE";
+"Distance" = "Distance";
+"CALORIES" = "CALORIES";
+"Calories" = "Calories";
+
+/* Page 23 */
+"AUTO EL" = "EL AUTOMATIQUE";
+"Auto EL" = "EL automatique";
+
+/* Reset Password Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_reset password_Fr-FINAL.ppt */
+/* Title */
+/* "Reset Password" = "Réinitialiser le mot de passe"; */
+/* "Email" = "Courriel"; */
+"Send reset email" = "Envoyer le courriel de réinitialisation";
+
+/* Rewards Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_partners_Fr-FINAL.ppt */
+"Rewards" = "Récompenses";
+"Get points for the healthy activities you do every day." = "Gagnez des points pour les activités saines que vous réalisez tous les jours.";
+"Connecting to Walgreens..." = "Connexion à Walgreens...";
+"Partners" = "Partenaires";
+"by Walgreens would like to access your:" = "par Walgreens voudrait accéder votre:";
+
+/* Others */
+/* Screenshots_R450_R2_20141022_Appl SCR_Others-Fr-FINAL.ppt */
+"view my account" = "afficher mon compte";
+"Dashboard" = "Tableau de bord";
+"Goals" = "Buts";
+/* "Settings" = "Paramètres"; */
+"Help" = "Aide";
+"Sign out" = "Fermer la session";
+"Last Sync" = "Dernière synchronisation";
+"App Version:" = "Version de l'application:";
+"SDK Version:" = "Version SDK:";
+"Firmware Version:" = "Version du Firmware:";
+"Software Version:" = "Version de Logiciel:";
+
+/* Help Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_help-FINAL.ppt */
+/* Feedback page - handled by apptentive? */
+/* "Help" = "Aide"; */
+"SUPPORT" = "ASSISTANCE";
+"Support" = "Assistance";
+"FAQ" = "Questions fréquentes";
+"User Guides" = "Guides d'utilisation";
+"Tech Support" = "Assistance technique";
+"Feedback" = "Commentaires";
+"LifeTrak iOS App Help" = "Aide de l'application iOS LifeTrak";
+"To:" = "À:";
+"Cc/Bcc:" = "Cc/Cci:";
+"Subject" = "Objet:";
+
+/* Goals Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_goals-FINAL.ppt */
+"Today's Targets" = "Cibles du jour";
+"SLEEP" = "SOMMEIL";
+"Sleep" = "Sommeil";
+"BRIGHT LIGHT DURATION" = "DURÉE À LA LUMIÈRE BRILLANT";
+"Sync" = "Synchroniser";
+"Reset" = "Réinitialiser";
+"Restore to Previous" = "Restaurer précédent";
+"Update" = "Mise à jour";
+
+/* Dashbaord */
+/* Screenshots_R450_R2_20141022_Appl SCR_Dashboard-FINAL.ppt */
+
+"Jan" = "Jan.";
+"Feb" = "Fév.";
+"Mar" = "Mar.";
+"Apr" = "Avr.";
+"May" = "Mai.";
+"Jun" = "Juin.";
+"Jul" = "Juil.";
+"Aug" = "Août.";
+"Sep" = "Sep.";
+"Oct" = "Oct.";
+"Nov" = "Nov.";
+"Dec" = "Déc.";
+
+"jan" = "jan.";
+"feb" = "fév.";
+"mar" = "mar.";
+"apr" = "avr.";
+"may" = "mai.";
+"jun" = "juin.";
+"jul" = "juil.";
+"aug" = "août.";
+"sep" = "sep.";
+"oct" = "oct.";
+"nov" = "nov.";
+"dec" = "déc.";
+
+"Monday" = "lundi";
+"Tuesday" = "mardi";
+"Wednesday" = "mercredi";
+"Thursday" = "jeudi";
+"Friday" = "vendredi";
+"Saturday" = "samedi";
+"Sunday" = "dimanche";
+
+"AM" = "MATIN";
+"PM" = "APRÈS-MIDI";
+
+"Daily Fitness Results" = "Résultats du conditionnement journalier";
+"AVG HEART RATE" = "FRÉQUENCE CARDIAQUE MOYENNE";
+
+"LIGHT" = "LÉGER";
+"MODERATE" = "MODÉRÉ";
+"HARD" = "FORT";
+
+"ACTIVE TIME" = "DURÉE D'ACTIVITÉ";
+"BRIGHT LIGHT EXPOSURE" = "EXPOSÉ À LA LUMIÈRE BRILLANT";
+"LIGHT EXPOSURE" = "Exposition à la lumière";
+"Light Exposure" = "Exposition à la lumière";
+
+"No heart rate recorded for the day." = "Aucune fréquence cardiaque enregistrée ce jour.";
+"No sleep recorded for the day." = "Aucun sommeil enregistré ce jour.";
+"No workout recorded for the day." = "Aucun exercice enregistré ce jour.";
+"Don't forget to track your heart rate!" = "N'oubliez pas de suivre votre fréquence cardiaque!";
+"Don't forget to track your sleep!" = "N'oubliez pas de suivre votre sommeil!";
+"Don't forget to track your workout!" = "N'oubliez pas de suivre vos exercices!";
+
+"DAILY" = "JOURNALIER";
+"WEEKLY" = "HEBDOMADAIRE";
+"MONTHLY" = "MENSUEL";
+"YEARLY" = "ANNUEL";
+
+"Day" = "Jour";
+"Week" = "Semaine";
+"Month" = "Mois";
+"Year" = "Année";
+
+"Live" = "en direct";
+
+"Total Active Time:" = "Durée d'activité totale:";
+"Total Sedentary Time:" = "Durée d'inactivité totale:";
+"Total Sleep Time:" = "Durée de sommeil totale:";
+
+"TOTAL ACTIVE TIME" = "DURÉE D'ACTIVITÉ TOTALE";
+"TOTAL SEDENTARY TIME" = "DURÉE D' INACTIVITÉ TOTALE";
+"TOTAL SLEEP TIME" = "DURÉE DE SOMMEIL TOTALE";
+
+"AWAKE" = "ÉVEILLÉ";
+"ACTIVE" = "ACTIF";
+"DEEP SLEEP" = "SOMMEIL PROFOND";
+"LIGHT SLEEP" = "SOMMEIL LÉGER";
+"times" = "fois";
+
+"Actigraphy" = "Graphique d’activité";//"Durée D'activité";
+
+"Heart Rate" = "Fréquence cardiaque";
+/* shortened version */
+"HEART RATE" = "FRÉQ CARD";
+
+"GOAL" = "BUT";
+"MAX BPM" = "BPM MAX";
+"MIN BPM" = "BPM MIN";
+"MAX" = "MAX";
+"BPM" = "BPM";
+"AVG BPM" = "BPM MOY";
+
+"ALL LIGHT" = "LUMIÈRE TOTALE";
+"BLUE RICH LIGHT" = "LUMIÈRE BLEUE";
+"WRIST-OFF" = "BRACELET ARRÊTÉ";
+
+"Add" = "Ajout";
+"Sleep Date:" = "Date de sommeil:";
+
+"HOURS AWAKE:" = "HEURES D'ÉVEIL:";
+"SLEEP EFFICIENCY:" = "EFFICACITÉ DU SOMMEIL:";
+"SLEEP START TIME:" = "HEURE DE DÉBUT DU SOMMEIL:";
+"WAKE AFTER SLEEP ONSET:" = "RÉVEIL APRÈS SOMMEIL:";
+"NUMBER OF AWAKENINGS" = "NOMBRE DE RÉVEILS:";
+"SLEEP ONSET LATENCY:" = "LATENCE DU SOMMEIL:";
+
+"Sleep Logs" = "Journaux de Sommeil";
+"SLEEP LOGS" = "JOURNAUX DE SOMMEIL";
+
+"Workout %i time" = "Durée exercice %i";
+"Start" = "Début";
+"End" = "Fin";
+"Workouts" = "Exercices";
+"Workout" = "Exercice";
+"WORKOUT" = "EXERCICE";
+"Workout Time" = "Durée exercice";
+
+"WORKOUT TIME" = "DURÉE EXERCICE";
+
+"WORKOUT %i TIME" = "DURÉE EXERCICE %i";
+
+"Workout %i" = "Exercice %i";
+
+"Total Workout Time" = "Durée EXERCICE totale";
+
+"TOTAL WORKOUT TIME" = "DURÉE EXERCICE TOTALE";
+
+
+/* Connected Devices Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_Connected devices_Fr-FINAL.ppt */
+"Track with Precision" = "Suivre avec précision";
+"Choose a watch you want to connect." = "Choisissez la montre que vous voulez connecter.";
+"Synced at" = "Synchronisée le";
+"Old watch" = "Ancienne montre";
+"Connect a New Watch" = "Connecter une nouvelle montre";
+
+/* Account Page */
+/* Screenshots_R450_R2_20141022_Appl SCR_Account-FINAL.ppt */
+"My Account" = "Mon Compte";
+"EDIT ACCOUNT" = "MODIFIER LE COMPTE";
+"ABOUT ME" = "À PROPOS DE MOI";
+"Giving accurate information helps us\nhelp YOU better." = "Donnez des informations précises nous\naide à VOUS aider.";
+"MY WATCH" = "MA MONTRE";
+"Device Name" = "Nom de l'appareil";
+"Sync to watch" = "Synchroniser avec la montre";
+"Sync to cloud" = "Synchroniser avec le Cloud";
+"Synced Today at" = "Synchronisée aujourd'hui à";
+"Switch to a new watch" = "Changer de montre";
+
+/* Edit Profile - Page 9 */
+"Edit Profile" = "Modifier le profil";
+//"CHANGE PROFILE PICTURE" = "CHANGER LA PHOTO DU PROFIL";
+"ACCOUNT DETAILS" = "DÉTAILS DU COMPTE";
+"CHANGE PASSWORD" = "CHANGER DE MOT DE PASSE";
+"Old Password" = "Ancien mot de passe";
+"New Password" = "Nouveau mot de passe";
+"Confirm Password" = "Confirmez le mot de passe";
+"Old password" = "Ancien mot de passe";
+"New password" = "Nouveau mot de passe";
+"Confirm password" = "Confirmez le mot de passe";
+"Save changes" = "Enregistrer les modifications";
+"Sync changes to watch?" = "Synchronisez changements avec la montre?";
+
+"Upload Photo" = "Télécharger la photo";
+"Camera" = "Caméra";
+"Photo Library" = "Bibliothèque d'images";
+
+/* Missing translations */
+/* November 25, 2014 */
+"Not yet synced." = "Pas encore synchronisé.";
+"Not yet synced" = "Pas encore synchronisé";
+/* "Last Sync" = "Dernière synchronisation"; */
+"Sleep Mode" = "Mode Veille";
+"MANUAL" = "MANUEL";
+"AUTO" = "AUTO";
+"Sync Freqnency" = "Sync Fréquence";
+"This app works only when the Bluetooth is on. Please activate the Bluetooth in Settings." = "Cette application fonctionne uniquement lorsque le Bluetooth est activé . Veuillez s'il vous plaît activer le Bluetooth dans Paramètres.";
+"Data sync reminder" = "Rappel de Sync des données";
+
+"Intelligent Wake Up Alarm" = "Alarme réveil intelligent";
+"LightTrak Daylight Alert" = "Alerte LightTrak lumière de jour";
+"LightTrak Night Light Alert" = "Alerte LightTrak lumière de nuit";
+"Inactivity Alert" = "Alerte d'inactivité";
+
+"Wake Up Time" = "Heure de réveil";
+"Intelligent Wake Up starts" = "Réveil intelligent commence";
+"earlier" = "plus tôt";
+
+"Walgreens Balance® Rewards" = "Récompenses Walgreens Balance®";
+"Connect to Walgreens Error" = "Erreur de connexion à Walgreens";
+"This device has no mail account connected. Please set up your mail first." = "Cet appareil n'a pas de compte de couriel associé . Veuillez s'il vous plaît configurer d'abord votre courriel.";
+
+"AUTO SYNC" = "AUTO SYNC";
+"COMPATIBLE APPS" = "APPS COMPATIBLE";
+"Compatible Apps" = "Apps Compatible";
+"Auto sync to watch" = "Synchronisation automatique avec la montre";
+
+"Successfully synced data with server" = "Données synchronisées avec le serveur avec succès";
+"Success" = "Succès";
+"Sync to Server successful." = "Synchronisation avec le serveur réussie.";
+"Synced" = "Synchronisé";
+/* "Synced at" = "Synchronisé le"; */
+
+/* November 26, 2014 */
+"Invalid birthday" = "Date de naissance invalide";
+"Please choose date not later than today." = "Veuillez s'il vous plaît choisir une date pas plus tard qu'aujourd'hui.";
+
+"MY LIFETRAK" = "MON LIFETRAK";
+"CLOUD SYNC" = "SYNC CLOUD";
+"Retrieving Walgreens Information" = "Récupération d'informations Walgreens";
+"Please reconnect your Walgreens account to continue." = "Veuillez s'il vous plaît reconnecter votre compte Walgreens pour continuer.";
+"Enable Sync to cloud" = "Activer Sync avec cloud";
+"Done" = "Terminé";
+"Signing In" = "Ouvrerture de session";
+"Choose a product you want to connect." = "Choisissez un produit que vous souhaitez connecter.";
+"Signing In with Facebook" = "Overture de session via Facebook";
+
+/* "Press and hold lower right button to begin." = "Appuyez et maintenez enfoncé le bouton inférieur droit pour commencer."; */
+
+"Press and hold lower right button to begin." = "Maintenez le bouton inférieur droit enfoncé pour commencer la mise à jour.";
+
+"Establishing connection" = "établissement de la connexion";
+
+"Your Profile" = "Votre profil";
+"Verify your personal details below." = "Vérifiez vos détails personneles ci-dessous.";
+"Devices" = "appareils";
+"Pairing" = "Couplage:";
+
+"\n3.You may also try to forget the bluetooth device in iOS system settings." = "\n3. Vous pouvez également essayer d'oublier le dispositif de Bluetooth dans les paramètres du système iOS.";
+"Image Source" = "Source d'image";
+"Camer" = "caméra";
+"Image Library" = "Bibliothèque d'images";
+
+/* November 27, 2014 */
+
+"The request timed out." = "La demande a expiré.";
+"Skip" = "sauter";
+"Your LifeTrak session has expired. Please sign in again to continue." = "Votre session LifeTrak a expiré. Veuillez s'il vous plaît vous connecter à nouveau pour continuer.";
+"Session Expired" = "Session expirée";
+"Cloud Sync Error" = "Erreur de Sync Cloud";
+"Exposure duration should not be greater than the time on start time and end time." = "La durée d'exposition ne doit pas être supérieure à l'heure de début et de fin.";
+"Day light and night light start and end time should not overlap." = "Le commencement et la fin des lumières de jour et de nuit ne doivent pas se chevaucher.";
+"The end time is not valid." = "L'heure de fin n'est pas valide.";
+"Sleep must not exceed 14h50min." = "Le sommeil ne doit pas dépasser 14h50min.";
+"Sleep must not be less than 1min." = "Sommeil ne doit pas être inférieur à 1min.";
+"R500 watch is disconnected" = "Montre R500 est déconnectée";
+"We can't find your R500 watch" = "Nous ne pouvons pas trouver votre montre R500";
+
+"Enable" = "Activez";
+"Disable" = "Désactivez";
+
+"Pairing device" = "Dispositif de Jumelage";
+
+"Walgreens requires you to update your data to cloud. Do you want to sync now?" = "Walgreens vous demande de mettre à jour vos données avec le cloud. Voulez-vous synchroniser maintenant?";
+"Disconnecting from Walgreens..." = "Déconnexion à Walgreens...";
+"Unable to disconnect from Walgreens" = "Impossible de se déconnecter de Walgreens";
+
+"Updating notification..." = "Mise à jour des notifications...";
+"Notification updated!" = "Notifications mises à jour!";
+
+"Signing up with Facebook" = "Overture de session via Facebook";
+"Please fill out the email address field." = "Veuillez s'il vous plaît complèter l'adresse courriel.";
+"You must accept LifeTrak's Terms and Conditions." = "Vous devez accepter les Termes et Conditions de LifeTrak.";
+"Your password should be not less than 6 characters." = "Votre mot de passe doit être d'au moins six caractères.";
+
+"Synced Yesterday at" = "Synchronisé hier";
+"Problem occured while communicating with server. Please try again." = "Problème survenu lors de la communication avec le serveur. Veuillez s'il vous plaît essayer à nouveau.";
+"Poor network connection, please try again later." = "Connexion réseau faible, merci d'essayer à nouveau ultérieurement.";
+
+
+
+/* November 28, 2014 */
+"Searching for your %@" = " A la recherche de votre %@";//"Recherche de votre %@";
+
+"1. There was a problem communicating with your watch.\n\n2. Your battery level is low, try to replace the battery." = "1. Il y a un problème de communication avec votre montre.\n\n2. Le niveau de votre batterie est faible; essayez de remplacer la batterie.";
+
+"Sorry we can't complete your sync" = "Désolé, nous ne pouvons pas compléter votre synchronisation";
+
+"Make sure that you have selected the correct LifeTrak watch model to pair with." = "Assurez-vous que vous avez sélectionné le modèle de montre LifeTrak correcte pour le jumelage.";
+
+"Are you sure you want to delete" = "êtes-vous sûr de vouloir supprimer";
+"Are you sure you want to disconnect this app from your LifeTrak" = "êtes-vous sûr de vouloir déconnecter l'application de votre LifeTrak";
+"This will allow you to connect the app to another LifeTrak watch." = "Cela vous permettra de connecter l'application à une autre montre LifeTrak.";
+
+"This app needs to be paired with a compatible LifeTrak Fitness Watch in order to view your fitness results. Please set up your device in the next screen." = "Cette application doit être jumelée avec une montre LifeTrak compatible afin d'afficher vos résultats de conditionnement. Veuillez s'il vous plaît configurer votre appareil dans l'écran suivant.";
+
+"We will now pair this app with your %@ watch. Check that you have selected the correct LifeTrak watch model to pair with. Then press the watch lower button until you see the pairing icon on your watch display." = "Nous allons maintenant associer cette application avec votre %@ montre. Vérifiez que vous avez sélectionné le modèle de montre LifeTrak correcte pour le jumelage. Appuyez ensuite sur le bouton inférieur de la montre jusqu'à ce que vous voyez l'icône de jumelage sur l'écran de votre montre.";
+
+"We will now enable pulsewave with your R500 watch. Press your R500 watch lower button until you see the pairing icon on your watch display." = "Nous allons maintenant activer Pulsewave avec votre montre R500. Appuyez sur le bouton inférieur de votre R500 jusqu'à ce que vous voyez l'icône de jumelage sur l'écran de votre montre.";
+
+"We will now update the data from your LifeTrak %@." = "Nous allons maintenant mettre à jour les données de votre LifeTrak %@.";
+
+"We will now update the data from your LifeTrak %@. Please press the lower button until you see the pairing icon on your watch display." = "Nous allons maintenant mettre à jour les données de votre LifeTrak %@. Veuillez s'il vous plaît appuyez sur le bouton inférieur jusqu'à ce que vous voyez l'icône de jumelage sur l'écran de votre montre.";
+
+"Are you sure you want to switch to a new watch?" = "êtes-vous sûr de vouloir choisir une nouvelle montre?";
+
+"We will now update your personal settings on your LifeTrak %@." = "Nous allons maintenant mettre à jour vos paramètres personnels sur votre LifeTrak %@.";
+
+"We will now update your personal settings on your LifeTrak %@. Please press the lower button until you see the pairing icon on your watch display." = "Nous allons maintenant mettre à jour vos paramètres personnels sur votre LifeTrak %@. Veuillez s'il vous plaît appuyez sur le bouton inférieur jusqu'à ce que vous voyez l'icône de jumelage sur l'écran de votre montre.";
+
+"We will now update your goal settings on your LifeTrak %@." = "Nous allons maintenant mettre à jour vos paramètres d'objectif sur votre LifeTrak %@.";
+"We will now update your goal settings on your LifeTrak %@. Please press the lower button until you see the pairing icon on your watch display." = "Nous allons maintenant mettre à jour vos paramètres d'objectif sur votre LifeTrak %@. Veuillez s'il vous plaît appuyez sur le bouton inférieur jusqu'à ce que vous voyez l'icône de jumelage sur l'écran de votre montre.";
+
+"Sync changes to watch?" = "Synchronisez changements de regarder?";
+"You must turn on your watch bluetooth before you can continue" = "Vous devez activer votre montre bluetooth avant de pouvoir continuer";
+
+"Syncing to cloud" = "Synchronisation avec le cloud";
+
+"Invalid sync time" = "Temps de synchronisation non valide";
+
+"Sync schedule cannot be set to same time" = "Programme de synchronisation ne peut pas être réglé à même temps";
+
+"Searching" = "recherche";
+"today's sleep" = " Temps de sommeil aujourd'hui";
+"TODAY'S SLEEP" = "TEMPS DE SOMMEIL AUJOURD'HUI";
+
+"Edit" = "Éditer";
+
+"slept" = "dormi";
+"SLEPT" = "DORMI";
+
+"time" = "durée";
+"Snooze Time" = "Heure du rappel";
+
+"Total Time Asleep" = "Durée de Sommeil Totale";
+"TOTAL TIME ASLEEP" = "DURÉE DE SOMMEIL TOTALE";
+
+/* December 8, 2014 */
+
+"Password must be more than 6 characters" = "Mot de passe doit être plus de 6 caractères";
+"Successfully connected to" = "Connexion réussie avec";
+
+/* December 11, 2014 */
+
+"Retry" = "Réessayer";
+"The refresh token is invalid." = "Le token de réinitialization n'est pas valide.";
+"There is a problem while syncing your data to cloud. You may go to Feedback page to contact administrator." = "Il y a eu un problème lors de la synchronisation de vos données avec le cloud. Allez à la page Commentaires afin de contacter l'administrateur.";
+
+"Syncing data headers" = "Synchronisation de têtes de données";
+"Syncing light data points" = "Synchronisation de points de données de la lumière";
+
+/* December 16, 2014 */
+"FITNESS RESULTS - %i%%" = "RÉSULTATS DE CONDITIONEMENT - %i%%";
+"Syncing light data points" = "Synchronisation des données de lumière";
+"Syncing fitness results" = "Synchronisation résultats de fitness";
+"Syncing sleep settings" = "Synchroniser les paramètres du sommeil";
+"Syncing sleep database" = "Synchronisation de base de données de sommeil";
+"Syncing time and date" = " Synchronisation d'heure et date";
+"Syncing notifications" = "Synchronisation de notifications";
+
+
+/* Server Messages */
+"Unable to store application." = "Impossible de stocker l'application.";
+"Unable to store scope." = "Impossible de stocker portée.";
+"Unable to generate access token." = "Impossible de générer token d'accès.";
+"Unable to create user." = "Impossible de créer l'utilisateur.";
+
+"Device parameter missing." = "Paramètre de l‘appareil manquant.";
+"Unable to update device." = "Impossible de mettre à jour l'appareil.";
+"Unable to create device." = "Impossible de créer l'appareil.";
+"Unable to create workout." = "Impossible de créer l‘exercice.";
+"Unable to create sleep data." = "Impossible de créer les données de sommeil.";
+"Unable to create data header." = "Impossible de créer l'entête de données.";
+"Unable to update data header." = "Impossible de mettre à jour l'entête de données.";
+"Unable to create data point." = "Impossible de créer le point de données.";
+"Unable to update data point." = "Impossible de mettre à jour le point de données.";
+"Redis was unable to save data." = "Redis n'a pas pu sauvegarder les données.";
+
+"There was a problem encountered while uploading your data to server please sync again." = "Il y a eu un problème lors du transfert de vos données vers le serveur; Veuillez s'il vous plaît synchroniser à nouveau.";
+
+"Redis was unable to retrieve data on redis." = "Redis est incapable de récupérer les données.";
+"Unable to update device settings." = "Impossible de mettre à jour les paramètres de l'appareil.";
+"Unable to create device settings." = "Impossible de créer les paramètres de l'appareil.";
+"Unable to update user profile." = "Impossible de mettre à jour le profil d'utilisateur.";
+"Unable to create user profile." = "Impossible de créer le profil d'utilisateur.";
+"Unable to update goal." = "Impossible de mettre à jour l'objectif.";
+"Unable to create goal." = "Impossible de créer l'objectif.";
+"Unable to update sleep settings." = "Impossible de mettre à jour les paramètres de sommeil.";
+"Unable to create sleep settings." = "Impossible de créer les paramètres de sommeil.";
+"Unable to update wakeup information." = "Impossible de mettre à jour l'information réveil.";
+"Unable to create wakeup information." = "Impossible de créer l'informations de réveil.";
+"Unable to update workout stop." = "Impossible de mettre à jour l'arrêt d'exercice.";
+"Unable to create workout stop." = "Impossible de créer l'arrêt d'exercice.";
+"Unable to retrieve workout stop." = "Impossible de récupérer l'arrêt d'exercice.";
+"Unable to retrieve sleep." = "Impossible de récupérer le sommeil.";
+"Unable to retrieve data header." = "Impossible de récupérer l‘entête des données.";
+"Unable to retrieve data point." = "Impossible de récupérer le point de données.";
+"Unable to retrieve data settings." = "Impossible de récupérer les paramètres de données.";
+"Unable to retrieve user profile." = "Impossible de récupérer le profil d'utilisateur.";
+"Unable to retrieve goal." = "Impossible de récupérer l'objectif.";
+"Unable to retrieve sleep settings." = "Impossible de récupérer les paramètres de sommeil.";
+"Unable to retrieve wakeup information." = "Impossible de récupérer les informations de réveil.";
+"Session not valid, Graph API returned an exception." = "Session non valable, API Graph a retourné une exception.";
+"Graph API returned info, but it may mismatch the current app or have expired." = "API Graph a retourné une information, mais elle peut ne pas correspondre à l'application en cours, ou a expiré.";
+"Exception occurred, code:" = "Une exception s'est produite, avec le code suivant:";
+"Unable to retrieve user." = "Impossible de récupérer l'utilisateur.";
+"Unable to retrieve device." = "Impossible de récupérer l'appareil.";
+"Image upload failed." = "Le chargement de l'image a échoué.";
+"Failed to send email." = "Impossible d'envoyer un courriel.";
+"Failed to delete device." = "Impossible de supprimer l'appareil.";
+"Failed to delete user." = "Impossible de supprimer l'utilisateur.";
+"Incorrect password." = "Mot de passe incorrect.";
+"The mac_address field is required." = "Le champ MAC_address est nécessaire.";
+"Invalid channel. Channel should be either web, mobile or tablet" = "Canal non valide. Le canal doit être web, mobile ou tablette";
+"Invalid facebook email." = "Couriel Facebook non valide.";
+"Invalid return from walgreens" = "Retour non valide de Walgreens";
+"Unable to store new app version." = "Impossible de stocker la nouvelle version de l'application.";
+"Application successfully created." = "Application créée avec succès.";
+"Scope successfully created." = "Portée créé avec succès.";
+"User successfully created." = "Utilisateur créé avec succès.";
+"User successfully updated." = "Utilisateur mis à jour avec succès.";
+"User successfully retrieved." = "Utilisateur récupéré avec succès.";
+
+"Access token successfully generated." = "Token d'accès généré avec succès.";
+"Successfully synced new data." = "Nouvelles données synchronisées avec succès.";
+"Successfully updated device." = "Appareil mis à jour avec succès.";
+"Successfully created device." = "Appareil créé avec succès.";
+"Successfully created workout." = "Exercice créé avec succès.";
+"Successfully created sleep data." = "Données de sommeil créés avec succès.";
+"Successfully created data header." = "Entête de données créée avec succès.";
+"Successfully updated data header." = "Mise à jour de l’entête de données avec succès.";
+"Successfully created data point." = "Point de données créé avec succès.";
+"Successfully updated data point." = "Point de données mis à jour avec succès.";
+"Successfully created data settings." = "Paramètres de données créés avec succès.";
+"Successfully updated data settings." = "Paramètres de données mis à jour avec succès.";
+"Successfully created user profile." = "Profil utilisateur créé avec succès.";
+"Successfully updated user profile." = "Profil de l'utilisateur mis à jour avec succès.";
+"Successfully created goal." = "Objectif créé avec succès.";
+"Successfully updated goal." = "Objectif mis à jour avec succès";
+"Successfully created sleep settings." = "Paramètres de sommeil créés avec succès.";
+"Successfully updated sleep settings." = "Paramètres de sommeil mis à jour avec succès.";
+"Successfully updated workout information." = "Informations d'exercice mises à jour avec succès.";
+"Successfully created workout information." = "Informations d'exercice crées avec succès.";
+"Successfully created workout stop data." = "Données d'arrêt d'exercice crées avec succès.";
+"Successfully updated workout stop data." = "Données d'arrêt d'exercice mises à jour avec succès.";
+"Successfully restored data." = "Données restaurées avec succès.";
+"Successfully retrieved devices." = "Appareils récupérés avec succès.";
+"Successfully deleted devices." = "Appareils  supprimés avec succès.";
+"You've successfully registered to LifeTrak!" = "Vous vous êtes enregistré avec succès à LifeTrak!";
+"You've successfully changed your password." = "Vous avez changé votre mot de passe avec succès.";
+"Password confirmation does not match" = "La confirmation du mot de passe ne corresponds pas";
+"Successfully deleted user." = "Utilisateur supprimé avec succès";
+"Successfully stored walgreens access token." = "Token d'accès Walgreens sauvegardé  avec succès.";
+"Successfully returned connection url." = "Connexion URL retourné avec succès.";
+"Successfully returned disconnection url." = "Déconnexion URL retourné avec succès.";
+"Successfully retrieved latest app version." = "Dernière version de l'application récupérée avec succès.";
+"Successfully stored latest app version." = "Dernière version de l'application sauvegardée avec succès.";
+"Successfully stored to server but unable to sync to walgreens." = "Sauvegardé avec succès sur le serveur, mais impossible de synchroniser avec Walgreens.";
+
+/*February 23, 2015*/
+"Fun facts" = "Données intéressantes";
+"Did you know?" = "Le saviez-vous ?";
+"There are special photoreceptors in the human eye that help regulate the sleep hormone melatonin based on the amount of light it receives. It’s especially sensitive to blue light frequencies." = "L'œil humain comporte des photorécepteurs spéciaux lui permettant de réguler l'hormone de sommeil appelée mélatonine en fonction de la quantité de lumière reçue. Il est particulièrement sensible aux fréquences de la lumière bleue.";
+"What is blue light?" = "Qu'est-ce que la lumière bleue ?";
+"Tell me about light and sleep" = "Parlez-moi de la lumière et du sommeil.";
+"What is blue light?" = "Qu'est-ce que la lumière bleue ?";
+"Light from the sun contains all wavelengths of visible light, which we see as white light. Blue light is a component of the light we see all around us. Blue light has the most effect in regulating sleep wake cycles." = "Le spectre solaire comporte toutes les longueurs d'onde de la lumière visible, que nous percevons comme une lumière blanche. La lumière bleue est une composante de l'éclairage qui nous entoure. L'effet le plus important de la lumière bleue est la régulation des cycles du sommeil et du réveil.";
+"Tell me about light and sleep" = "Parlez-moi de la lumière et du sommeil.";
+"Light alerts" = "Alertes d'exposition à l'éclairage";
+"All human beings have an biological oscillator with a 24 hour period called the circadian rhythm. Getting enough light in the morning can synchronize your sleep clock, and getting too much light in the evening can disrupt your sleep clock." = "Tout être humain possède un oscillateur biologique fonctionnant par tranches de 24 heures appelées le rythme circadien. Une quantité suffisante de lumière reçue le matin peut synchroniser votre horloge de sommeil, alors qu'une quantité excessive le soir peut la perturber.";
+"Tell me about morning light" = "Parlez-moi de l'éclairage matinal.";
+"Tell me about evening light" = "Parlez-moi de l'éclairage du soir.";
+"Tell me about UV light" = "Parlez-moi de la lumière ultraviolette.";
+"Morning light" = "L'éclairage matinal";
+"Get enough blue rich light in the morning, and your body will synchronize your circadian rhythm.  As we age we need more light to synchronize our circadian rhythm, so we recommend you set your light exposure based on your age." = "Si vous recevez assez d'éclairage riche en lumière bleue le matin, votre corps se chargera de synchroniser votre rythme circadien. En prenant de l'âge, nous avons besoin de plus de lumière pour synchroniser notre rythme circadien, et il est recommandé de régler votre durée d'exposition à la lumière en fonction de votre âge.";
+"How much light do I need?" = "Quelle quantité de lumière me faut-il ?";
+"Morning light needs" = "Besoin d'éclairage matinal";
+"You can use the Brite R450 to help you ensure you get enough morning light. Select your light threshold and exposure time based on your age." = "Vous pouvez vous servir de la Brite R450 pour vous assurer que vous recevez assez de lumière le matin. Choisissez votre seuil et votre durée d'exposition à la lumière en fonction de votre âge.";
+
+//Age	Morning Light Threshold	Time
+//10-35		Low	30 Minutes
+//36-65		Medium	30 Minutes
+//66+	High	30 Minutes
+
+//Âge    		Seuil d'exposition à l'éclairage matinal	Durée
+//10-35		Faible						30 minutes
+//36-65		Moyen						30 minutes
+//66 et plus	Élevé						30 Minutes
+
+
+"Tell me about the Morning Light Alert" = "Parlez-moi de l'alerte d'éclairage matinal.";
+"Morning light alert" = "Alerte d'exposition à l'éclairage matinal";
+"Default morning alert times are 7AM to 12PM, but these can be changed using your smartphone app. If you haven’t received 30 minutes of light with an intensity greater than your morning threshold, the Brite R450 will alert you that you should actively seek out more light." = "Les heures d'alerte par défaut le matin sont de 7h à 12h, mais elles peuvent être modifiées à l'aide de votre application smartphone. Si vous n'avez pas reçu 30 minutes de lumière d'une intensité supérieure à votre seuil matinal, la Brite R450 vous avertira du besoin de recevoir plus de lumière.";
+"Tell me about evening light" = "Parlez-moi de l'éclairage du soir.";
+"Evening Light" = "L'éclairage du soir";
+"If you get too much light in the evening, your body may delay or reduce its melatonin production, which can affect when you get tired, and affect sleep quality. As you age, you need more light to synchronize your circadian rhythm, so we recommend you set your light exposure based on your age." = "Si vous recevez trop de lumière le soir, votre corps peut retarder ou réduire sa production de mélatonine, ce qui peut vous causer de la fatigue et produire un effet sur la qualité de votre sommeil. En prenant de l'âge, vous avez besoin de plus de lumière pour synchroniser votre rythme circadien, et il est recommandé de régler votre durée d'exposition à la lumière en fonction de votre âge.";
+"How much light is too much?" = "Quand peut-on parler d'excès de lumière ?";
+"Evening Light Needs" = "Besoin d'éclairage le soir";
+"The Brite R450 will alert you if you need are getting more evening light than your goal. Select your light threshold and exposure time based on your age." = "La Brite R450 vous avertira si la quantité de lumière reçue le soir dépasse votre objectif. Choisissez votre seuil et votre durée d'exposition à la lumière en fonction de votre âge.";
+
+//Age	Evening Light Threshold	Time
+//10-35		Low	30 Minutes
+//36-65		Medium	30 Minutes
+//66+	High	30 Minutes
+
+//Âge    		Seuil d'exposition à la lumière du soir	Durée
+//10-35		Faible						30 minutes
+//36-65		Moyen						30 minutes
+//66 et plus	Élevé						30 minutes
+
+
+"Tell me about the Evening Light Alert" = "Parlez-moi de l'alerte d'exposition à la lumière du soir.";
+"Evening Light Alert" = "Alerte d'exposition à l'éclairage du soir";
+"Default evening alert times are 10PM to 11PM, but these can be changed using your smartphone app. It’s important to reduce the amount of light you’re exposed to at least 1 hour before your bedtime. If you’ve received 30 minutes of light with intensity greater than your evening threshold, the Brite R450 will alert you that you should actively try to get less light." = "Les heures d'alerte par défaut le soir sont de 22h à 23h, mais elles peuvent être modifiées à l'aide de votre application smartphone. Il est important de réduire le niveau de l'éclairage auquel vous vous exposez au moins une heure avant de vous coucher. Si vous avez reçu 30 minutes de lumière d'une intensité supérieure à votre seuil du soir, la Brite R450 vous avertira du besoin de prendre des mesures pour recevoir moins de lumière.";
+"Tell me about UV Light" = "Parlez-moi de la lumière ultraviolette.";
+"UV Light" = "La lumière ultraviolette";
+"Ultraviolet light cannot be seen by the human eye, and has no effect on the human sleep cycle. The Brite R450 does not measure UV light.   You can use sunblock and wear protective clothing while still getting the morning light you need to synchronize your circadian rhythm. IMPORTANT: Always use best practices when exposing yourself to natural light – wear sunscreen and follow doctor’s recommendations for skin care, and never look directly at a light source." = "La lumière ultraviolette ne peut pas être perçue par l'œil humain, elle est donc sans effet sur notre cycle de sommeil. La Brite R450 ne mesure pas la lumière ultraviolette. Vous pouvez utiliser de la crème solaire et porter des vêtements de protection tout en continuant à recevoir l'éclairage matinal dont vous avez besoin pour synchroniser votre rythme circadien. AVIS IMPORTANT : Suivez toujours les recommandations habituelles quand vous vous exposez à l'éclairage naturel – utilisez une crème solaire et suivez les conseils de votre médecin en ce qui concerne la protection de votre peau et ne regardez jamais directement une source lumineuse.";
+
+
+"Light Fact #1" = "Donnée nº 1 concernant la lumière";
+"Blue light can improve performance. In 2013, researchers at Mid Sweden University concluded that blue light was more effective than caffeine at improving performance on a Psychomotor Vigilance Test." = "La lumière bleue peut améliorer la performance. En 2013, des chercheurs de la Mid Sweden University ont conclu que la lumière bleue est plus efficace que la caféine dans l'amélioration de la performance à l'occasion d'un test de vigilance psychomotrice.";
+"Light Fact #2" = "Donnée nº 2 concernant la lumière";
+"Bright Light can be an effective treatment for depression. Getting enough bright light can be an effective treatment for both Seasonal and Non-Seasonal Depression" = "La lumière bleue peut agir efficacement contre la dépression. L'exposition à une quantité suffisante de lumière bleue peut constituer une cure efficace contre la dépression à la fois saisonnière et non saisonnière.";
+"Light Fact #3" = "Donnée nº 3 concernant la lumière";
+"Light Treatment is generally safe.\nAccording to a 2009 Journal of Sleep Medicine Article, Bright light could pose dangers to patients with known retinal pathology, and in those using photosensitizing medications, but is otherwise is low risk." = "Une cure à la lumière est généralement sans danger.\nSelon un article du Journal of Sleep Medicine de 2009, la lumière vive peut constituer un danger pour les patients souffrant d'une pathologie rétinienne avérée ou prenant des médicaments photosensibilisants, mais elle est par ailleurs à faible risque.";
+"Light Fact #4" = "Donnée nº 4 concernant la lumière";
+"Bright light exposure can improve vitality.\nA 1999 study showed that daily bright light exposure improves vitality. Over 12 weeks, healthy people were exposed to bright light for one hour a day, 5 days a week. Regular controlled surveys revealed improvements in Vitality, General Mental health, emotional problems and physical problems." = "L'exposition à la lumière vive peut accroître la vitalité.\nUne étude datant de 1999 montre que l'exposition à la lumière vive accroît la vitalité. Pendant une période de 12 semaines, des individus en bonne santé furent exposés à la lumière vive pendant une heure par jour, 5 jours par semaine. Des sondages régulièrement effectués avec un groupe-témoin ont révélé une nette amélioration en ce qui concerne la vitalité, la santé mentale en général, ainsi que les difficultés d'ordre physique ou affectif.";
+"Sleep Fact #1" = "Donnée nº 1 concernant le sommeil";
+"Get 7-8 hours of sleep daily.\nThe National Heart, Lung and Blood Institute recommends 7-8 hours of sleep per day for adults, and 9-10 hours of sleep per day for teenagers." = "Dormez 7 à 8 heures par nuit.\nLe National Heart, Lung, and Blood Institute recommande 7 à 8 heures de sommeil par nuit pour les adultes, et 9 à 10 heures pour les adolescents.";
+"Sleep Fact #2" = "Donnée nº 2 concernant le sommeil";
+"Long term Sleep Deprivation is unhealthy.\nLong term sleep deprivation increases risk of heart disease, diabetes, obesity, stroke, and even some cancers." = "Le manque de sommeil sur une durée prolongée est préjudiciable à la santé.\nLe manque de sommeil sur une durée prolongée augmente les risques de troubles cardiaques, de diabète, d’obésité, d’AVC et même de certains cancers.";
+"Sleep Fact #3" = "Donnée nº 3 concernant le sommeil";
+"Short term Sleep Deprivation is unhealthy.\nShort term sleep deprivation increases the risk of accidents, increases the risk of catching a cold, increases appetite and overeating, and even results in loss of brain tissue." = "Le manque de sommeil de courte durée est préjudiciable à la santé.\nLe manque de sommeil de courte durée augmente les risques d'accident et les risques d'attraper un rhume ; il accroît l'appétit et l’excès alimentaire ; il peut même entraîner une perte de tissus cérébraux.";
+"Sleep Fact #4" = "Donnée nº 4 concernant le sommeil";
+"Sleep deprivation affects your reaction time.\nOver 16 hours of being awake results in reaction time and performance similar to people who have a BAC between 0.05 and 0.1%" = "Le manque de sommeil influe sur votre temps de réaction.\nUne veille de plus de 16 heures entraîne une détérioration du temps de réaction et de la performance similaire à un taux d'alcoolémie de 0,05 à 0,1 %.";
+"Sleep Fact #5" = "Donnée nº 5 concernant le sommeil";
+"Sleep loss builds up.\nStudies have shown that sleep deprivation of a few hours every night can build up over several days, resulting in neurobehavioral deficits equivalent to those found after 1-3 days of total sleep loss." = "Le manque de sommeil produit un effet cumulatif.\nDes études ont révélé qu'un manque de sommeil de quelques heures toutes les nuits peut produire un effet cumulatif sur plusieurs jours, et entraîner des déficits neurocomportementaux semblables à ceux résultant d'une durée de 1 à 3 jours de manque de sommeil total.";
+"Sleep Fact #6" = "Donnée nº 6 concernant le sommeil";
+"Define Insomnia.\nThe term insomnia is derived from the Latin word insomnis, which translates to “sleepless”." = "Définissez l'insomnie.\nLe terme « insomnie » dérive du mot latin « insomnis », qui signifie « sans sommeil ».";
+
+"Sleep Fact #7" = "Donnée nº 7 concernant le sommeil";
+"Insomnia is not fun.\nInsomnia is associated with increased feelings of hostility and fatigue, and decreased feelings of joviality and attentiveness within individuals." = "L'insomnie n'est pas une condition agréable.\nL'insomnie se traduit par une sensation croissante d'hostilité et de fatigue, et une baisse du sentiment de jovialité et d'attention vis-à-vis des autres personnes.";
+"Sleep Fact #8" = "Donnée nº 8 concernant le sommeil";
+"Got Testosterone?\nHealthy young men saw their testosterone levels lower after sleeping less than 5 hours a night for a week." = "Manquez-vous de testostérone ?\nDes hommes jeunes et en bonne santé ont constaté une baisse de leur taux de testostérone après avoir dormi moins de 5 heures par nuit pendant une semaine.";
+"Sleep Fact #9" = "Donnée nº 9 concernant le sommeil";
+"Compose your own sleep patterns.\nListening to relaxing classical music for 45 minutes before bed can improve your sleep quality." = "Prenez en main la structure de votre sommeil.\nÉcouter de la musique classique relaxante pendant 45 minutes avant de vous coucher peut améliorer la qualité de votre sommeil.";
+"Actigraphy Fact #1" = "Donnée nº 1 concernant l'actigraphie";
+"“All truly great thoughts are conceived by walking” – Nietzsche\nJust 4 minutes of walking has been shown to increase creativity." = "« Toutes les grandes idées sont nées en marchant », disait Nietzsche.\nIl a été prouvé que 4 minutes de marche suffisent à accroître la créativité.";
+"Actigraphy Fact #2" = "Donnée nº 2 concernant l'actigraphie";
+"Heart Health Fact #1" = "Donnée nº 1 concernant la santé cardiaque";
+"Heart Disease is prevalent.\nHeart disease is your greatest health threat, and is a greater danger than breast cancer in women and prostate cancer in men." = "Les maladies cardiaques sont courantes.\nLes maladies cardiaques constituent la pire des menaces et représentent un danger encore plus grand que le cancer du sein chez les femmes et le cancer de la prostate chez les hommes.";
+"Heart Health Fact #2" = "Donnée nº 2 concernant la santé cardiaque";
+"Treat your heart right.\nYou can improve your heart health through diet, exercise and managing stress." = "Prenez soin de votre cœur.\nVous pouvez améliorer votre santé cardiaque au moyen d'un bon régime alimentaire allié aux exercices et à la gestion du stress.";
+"Heart Health Fact #3" = "Donnée nº 3 concernant la santé cardiaque";
+"Sounds stressful.\nYou’re more likely to have a heart attack on Monday morning than at any other time of the week." = "Voilà qui paraît stressant.\nVous avez plus de risque de faire une crise cardiaque le lundi matin qu'à tout autre moment de la semaine.";
+"Heart Health Fact #4" = "Donnée nº 4 concernant la santé cardiaque";
+"Stay active for better heart health.\nPeople who are sedentary at work have a higher risk of heart problems than those in more active jobs." = "Pour une meilleure santé cardiaque, restez actif.\nLes personnes sédentaires au travail courent un plus grand risque de troubles cardiaques que celles qui font un travail où elles bougent davantage.";
+"Heart Health Fact #5" = "Donnée nº 5 concernant la santé cardiaque";
+"Heart Disease can manifest physically.\nOnly 30 percent of Americans correctly identified unusual fatigue, sleep disturbances and jaw pain as all being signs of heart disease -- just a few of the symptoms that can manifest." = "Les maladies cardiaques peuvent se manifester sur le plan physique.\nSeulement 30 pour cent des personnes vivant aux États-Unis se doutent, avec raison, que leurs troubles du sommeil et douleurs à la mâchoire sont des signes de maladies cardiaques, et ce sont là seulement quelques-uns des symptômes qui peuvent se manifester.";
+"Heart Health Fact #6" = "Donnée nº 6 concernant la santé cardiaque";
+"Healthy habits can go a long way.\nThere are five things everyone should learn when it comes to their heart health. These can make an enormous difference and greatly decrease your risk: eat right, exercise regularly, know your cholesterol, blood pressure, and body mass index numbers, do not use tobacco, and know your family history." = "Les bonnes habitudes peuvent porter des fruits pendant longtemps.\nIl y a cinq choses que tout le monde devrait savoir en matière de santé cardiaque. Elles peuvent faire une énorme différence et réduire considérablement vos risques : mangez sainement, faites régulièrement de l’exercice, surveillez votre niveau de cholestérol, votre tension artérielle et votre indice de masse corporelle, évitez le tabagisme et soyez au courant de vos antécédents familiaux en matière de santé.";
+"morninglightneeds" = "morninglightneeds_fr";
+"eveninglightneeds" = "eveninglightneeds_fr";
+
+"LifeTrak app will ask you to share data to the Health app. This will allow you to use your LifeTrak fitness tracker with all your other favorite health and fitness apps that can connect to Health App." = "LifeTrak app will ask you to share data to the Health app. This will allow you to use your LifeTrak fitness tracker with all your other favorite health and fitness apps that can connect to Health App.";
+
+"To change which data you want to be shared by LifeTrak and Health App, you may open Health App on your device, go to the Sources tab and select LifeTrak." = "To change which data you want to be shared by LifeTrak and Health App, you may open Health App on your device, go to the Sources tab and select LifeTrak.";
+
+
+"Imperial" = "Impériales";
+"Metric" = "Métriques";
+
+"Simple" = "Simple";
+"Full" = "Complet";
+
+"Smart calibration" = "Réglage intelligent";
+"Device name" = "Nom de l'appareil";
+"Date format" = "Format de date";
+"Time format" = "Format des heures";
+"Watch display" = "Affichage de la montre";
+
+"Intelligent wake up alarm" = "Alarme réveil intelligent";
+"LightTrak daylight alert" = "Alerte LightTrak lumière de jour";
+"LightTrak night light alert" = "Alerte LightTrak lumière de nuit";
+"Inactivity alert" = "Alerte d'inactivité";
+
+"Wake up time" = "Heure de réveil";
+"Intelligent wake up starts" = "Réveil intelligent commence";
+"earlier" = "plus tôt";
+"Exposure level" = "Niveau d'exposition";
+"Steps threshold" = "Seuil des pas";
+"steps" = "pas";
+"Time Duration" = "Durée";
+"hr" = "h";
+
+
+"APP SETTINGS" = "PARAMÈTRES DE L’APPLICATION";
+"WATCH SETTINGS" = "RÉGLAGES DE LA MONTRE";
+"CLOUD SETTINGS" = "PARAMÈTRES DU CLOUD";
+"SWITCH WATCH" = "CHANGEMENT DE MONTRE";
+
+"Updated settings prompt" = "Message de paramètres mis à jour";
+"Get notification when watch and app settings don't match" = "Recevoir une notification lorsque les réglages de la montre ne correspondent pas aux paramètres de l’application";
+"Customize watch sensitivity for calories and distance" = "Personnaliser la sensibilité de la montre pour les calories et la distance";
+"Sync watch to phone time" = "Synchroniser la montre avec l’heure du téléphone";
+"Units" = "Unités";
+"Auto backlight" = "Rétroéclairage auto";
+"Watch alarms" = "Alarmes de la montre";
+"Notification display" = "Affichage des notifications";
+"Choose which phone notifications to display on watch" = "Choisir les notifications du téléphone à afficher sur la montre";
+
+
+"Enable cloud sync" = "Activer la synchronisation avec le Cloud";
+"Sync to cloud" = "Synchroniser avec le Cloud";
+"Sync settings to watch" =	"Synchroniser les paramètres avec la montre";
+"Sync reminder" = "Rappel de synchronisation";
+
+"12 hour" =	"12 heures";
+"24 hour" =	"24 heures";
+
+"STEP CALIBRATION" = "ÉTALONNAGE DES PAS";
+"If your step count seems inaccurate, adjust your watch's motion sensitivity" =	"Si votre nombre de pas semble inexact, ajustez la sensibilité au mouvement de votre montre";
+"motion sensitivity" =	"sensibilité au mouvement";
+"DISTANCE CALIBRATION" = "ÉTALONNAGE DE LA DISTANCE";
+"If your distance seems inaccurate, adjust the watch's stride measurement" = "Si votre distance semble inexacte, ajustez la mesure de la foulée sur la montre";
+"stride measurement" =	"mesure de la foulée";
+"CALORIE CALIBRATION" =	"ÉTALONNAGE DES CALORIES";
+"If your calories seem inaccurate, adjust the watch's calorie rate calculation" = "Si vos calories semblent inexactes, ajustez le calcul du taux de calories sur la montre";
+"calorie rate calculation" = "calcul du taux de calories";
+"Longer strides" =	"Foulées plus longues";
+"Shorter strides" =	"Foulées plus courtes";
+"Less calories" = "Moins de calories";
+"More calories" = "Plus de calories";
+
+"Account" =	"Compte";
+"Never" = "Jamais";
+
+"Watch alarms" = "Alarmes de la montre";
+"Gradually wakes you up with a series of alarms" =	"Vous réveille progressivement avec une série d’alarmes";
+"Reminds you to get healthy amount of morning light exposure" =	"Vous rappelle de vous exposer à une quantité saine de lumière du matin";
+"Reminds you to get healthy amount of evening light exposure" =	"Vous rappelle de vous exposer à une quantité saine de lumière du soir";
+"Regularly reminds you to get active" =	"Vous rappelle régulièrement d’être actif";
+"Light exposure goal" =	"Objectif d’exposition à la lumière";
+"Alert window" = "Fenêtre d’alerte";
+"Alert interval" =	"Intervalle d’alerte";
+"to" = "à";//(e.g 10:00AM to 3:00 PM) = (p. ex. : 10 h à 15 h)
+"step" = "pas";
+"min" = "min"; // (minute)(minute)
+"hrs"  =  "hrs"; //(hours)(heures)
+"mins"  =  "mins"; //(minutes)(minutes)
+
+"Logged in as" = "Session ouverte par";
+
+"SIGN UP" = "INSCRIPTION";
+
+"You must agree to LifeTrak’s TERMS & CONDITIONS before proceeding with Facebook sign up" = "Vous devez accepter les CONDITIONS GÉNÉRALES de LifeTrak avant de vous inscrire sur Facebook.";
+"You must agree to LifeTrak’s TERMS & CONDITIONS before proceeding" =	"Vous devez accepter les CONDITIONS GÉNÉRALES de LifeTrak avant de continuer.";
+
+"You must agree to LifeTrak’s" = "Vous devez accepter les";
+"You must agree to LifeTrak’s" =	"Vous devez accepter les";
+
+
+"TERMS & CONDITIONS" = "CONDITIONS GÉNÉRALES";
+"TERMS & CONDITIONS" =	"CONDITIONS GÉNÉRALES";
+
+
+"before proceeding with Facebook sign up" = "de LifeTrak avant de vous inscrire sur Facebook.";
+"before proceeding" =	"de LifeTrak avant de continuer.";
+
+"CHANGE PROFILE PICTURE" =	"CHANGER LA PHOTO DE VOTRE PROFIL";
+"AGREE" = "ACCEPTER";
+"Registering account" = "Enregistrement du compte";
+"Please wait" = "Veuillez patienter";
+"Welcome, user!" = "Bienvenue, utilisateur !";
+"Welcome," = "Bienvenue,";
+"Set up your LifeTrak app\nin 5 easy steps" = "Configurez votre application LifeTrak\n en 5 étapes faciles.";
+"FIND WATCH" = "RECHERCHE DE LA MONTRE";
+"PAIR WITH WATCH" = "COUPLAGE AVEC LA MONTRE";
+"SYNC DATA" = "SYNCHRONISATION DES DONNÉES";
+"ADD DETAILS" = "AJOUT DE RENSEIGNEMENTS";
+"BACKUP DATA" = "SAUVEGARDE DES DONNÉES";
+
+"Find watch" = "Recherche de la montre";
+"Pair with watch" = "Couplage avec la montre";
+"Sync data" = "Synchronisation des données";
+"Add details" = "Ajout de renseignements";
+"Backup data" = "Sauvegarde des données";
+
+"Please make sure your phone’s wifi and bluetooth are enabled" = "Veuillez vous assurer que le wifi et le bluetooth de votre téléphone sont activés.";
+"Please enable bluetooth to continue with setup process" = "Veuillez activer le bluetooth pour continuer le processus de configuration.";
+"DENY" = "REFUSER";
+"ALLOW" = "AUTORISER";
+"Turn on watch bluetooth" = "Activez le bluetooth de la montre.";
+"Press and hold the lower right button on your watch and release when the bluetooth symbol flashes on the watch face" = "Appuyez sur le bouton en bas à droite de votre montre et maintenez-le enfoncé, puis relâchez lorsque le symbole du bluetooth s’allume sur la montre.";
+"Finding watch" = "Recherche de la montre";
+"No watch detected" = "Aucune montre détectée";
+"Make sure watch bluetooth is enabled. If there is no bluetooth icon on the display, press the lower right button to enable bluetooth and try again." = "Assurez-vous que le bluetooth de la montre est activé. S’il n’y a pas d’icône de bluetooth sur l’écran, appuyez sur le bouton en bas à droite pour activer le bluetooth et réessayez.";
+"Check watch battery level." = "Vérifiez le niveau de la pile de la montre.";
+"Keep watch and phone within bluetooth range." = "Placez la montre et le téléphone dans le rayon de portée du bluetooth.";
+"If watch still cannot be detected, hold down the lower right button until the message ‘pairing info removed’ appears on the display and try again." = "Si la montre n’est toujours pas détectée, appuyez sur le bouton en bas à droite jusqu'à ce que le message « info de couplage retirée » apparaisse à l’écran et réessayez.";
+"CANCEL" = "ANNULER";
+"TRY AGAIN" = "RÉESSAYER";
+"DETECTED WATCH" = "MONTRE DÉTECTÉE";
+"DETECTED WATCHES" = "MONTRES DÉTECTÉES";
+"Connect watch" = "Connecter la montre";
+"CONNECT WATCH" = "CONNECTER LA MONTRE";
+"OTHER PRODUCTS FROM LIFETRAK" = "AUTRES PRODUITS DE LIFETRAK";
+"OTHER PRODUCT FROM LIFETRAK" = "AUTRES PRODUIT DE LIFETRAK";
+
+
+"SIGN UP WITH FACEBOOK" = "INSCRIPTION AVEC FACEBOOK";
+"   SIGN UP WITH FACEBOOK" = "   INSCRIPTION AVEC FACEBOOK";
+
+"ECG Heart Rate" = "Fréquence cardiaque ECG";
+"App Connected" = "Application connectée";
+"SleepTrak" = "SleepTrak (suivi du sommeil)";
+"Precise Tracking" = "Suivi précis";
+"Always on" = "Toujours connecté";
+"Long Battery Life and Waterproof" = "Étanche et pile à longue durée de vie";
+"Customizable ComfortFit Bands" = "Bracelets ajustables et confortables";
+
+"Pairing watch" = "Couplage avec la montre";
+"Pairing failed" = "Échec du couplage";
+"Syncing watch data" = "Synchronisation des données de la montre";
+"Watch sync failed" = "Échec de la synchronisation de la montre";
+"Sync successful" = "Synchronisation réussie";
+
+"ENTER PERSONAL DETAILS" = "SAISIE DE RENSEIGNEMENTS PERSONNELS";
+"This information will be used to calculate your fitness results. All fields are required." = "Ces informations seront utilisées pour calculer les résultats de votre forme physique. Tous les champs sont obligatoires.";
+"Continue" = "Continuer";
+"Syncing to cloud" = "Synchronisation avec le Cloud";
+"Backup failed" = "Échec de la sauvegarde";
+"Check your internet connection" = "Vérifiez votre connexion à Internet";
+
+"RECOMMENDED GOALS" = "OBJECTIFS RECOMMANDÉS";
+"TODAY'S DATA" = "DONNÉES DU JOUR";
+"SEE FULL GRAPH" = "AFFICHER LE GRAPHIQUE COMPLET";
+
+
+"CONTINUE" = "CONTINUER";
+
+//NO TRANSLATIONS
+"CONNECTED" = "CONNECTED";
+"SIGN UP WITH EMAIL" = "INSCRIPTION AVEC L’ADRESSE ÉLECTRONIQUE";
+"ADD PROFILE PICTURE" = "AJOUTER UNE PHOTO DE PROFIL";
+"LOG IN" = "CONNEXION";
+"LOG IN WITH EMAIL" = "CONNEXION AVEC L’ADRESSE ÉLECTRONIQUE";
+"LOG IN WITH FACEBOOK" = "CONNEXION AVEC FACEBOOK";
+"   LOG IN WITH FACEBOOK" = "   CONNEXION AVEC FACEBOOK";
+"I agree to LifeTrak's TERMS & CONDITIONS" = "J’accepte les CONDITIONS GÉNÉRALES de LifeTrak";
+"TERMS & CONDITIONS" = "CONDITIONS GÉNÉRALES";
+"GET STARTED" = "COMMENCER";
+
+//"Settings" = "Settings";
+"Fitness data" = "Données sur la condition physique";
+//"Goals" = "Goals";
+//"Workout" = "Workout";
+//"Sleep" = "Sleep";
+"Light" = "Léger";
+
+"Cloud Sync" = "Synchroniser avec le Cloud";
+"backing up data to cloud" = "sauvegarde des données sur le cloud";
+
+"Watch already added" = "Montre déjà ajoutée";
+"The watch you are trying to add is already on your account." = "La montre que vous essayez d’ajouter est déjà sur votre compte";
+
+"Unsuccessful data sync between watch & app." = "Échec de la synchronisation des données entre la montre et l’appli.";
+
+"Tips – check that…\n- Bluetooth on phone/tablet is on.\n- Phone/tablet battery life > 20%\n- Bluetooth active on watch. Press and hold bottom right button to activate." = "Conseils : vérifiez que :\n- Le bluetooth du téléphone ou de la tablette est activé\n- L’autonomie de la batterie du téléphone ou de la tablette est > 20 %\n- Le bluetooth est activé sur la montre. Appuyez sur le bouton en bas à droite et restez appuyé pour l’activer.";
+
+"1. Ensure your phone/tablet’s Bluetooth is on.\n2. Check that Bluetooth is active on your watch. If not, press and hold lower right button to activate." = "1. Assurez-vous que le bluetooth de votre téléphone / tablette est activé.\n2. Vérifiez que le bluetooth est activé sur votre montre. Sinon, appuyez sur le bouton en bas à droite et restez appuyé pour l’activer.";
+
+"\n3. Go to your iOS Settings->Bluetooth. Select your LifeTrak device and then select “Forget this Device“." = "\n3. Allez dans vos paramètres iOS -> Bluetooth. Sélectionnez votre appareil LifeTrak puis sélectionnez Oublier cet appareil.";

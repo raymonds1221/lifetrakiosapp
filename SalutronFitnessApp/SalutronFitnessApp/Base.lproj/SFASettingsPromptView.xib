@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="WcR-Jk-SNu" customClass="SFASettingsPromptView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.40000000596046448" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HEV-9a-Xql">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TGW-3H-6Ct">
+                    <rect key="frame" x="40" y="192" width="240" height="185"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kYW-0M-PQT">
+                            <rect key="frame" x="0.0" y="152" width="120" height="33"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="33" id="1hN-hj-LZ8"/>
+                                <constraint firstAttribute="width" constant="120" id="t4x-M8-jNS"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <state key="normal" title="App">
+                                <color key="titleColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="appButtonPressed:" destination="WcR-Jk-SNu" eventType="touchUpInside" id="DPL-0j-4vh"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FX2-Yt-IVT">
+                            <rect key="frame" x="120" y="152" width="120" height="33"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="120" id="IBV-Z9-p7K"/>
+                                <constraint firstAttribute="height" constant="33" id="qKU-He-gSX"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <state key="normal" title="Watch">
+                                <color key="titleColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="watchButtonPressed:" destination="WcR-Jk-SNu" eventType="touchUpInside" id="EYt-T1-MwE"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" preferredMaxLayoutWidth="200" translatesAutoresizingMaskIntoConstraints="NO" id="pwW-SK-YMN">
+                            <rect key="frame" x="20" y="17" width="200" height="90"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="90" id="9cK-wd-0jv"/>
+                                <constraint firstAttribute="width" constant="200" id="k7a-23-0zh"/>
+                            </constraints>
+                            <string key="text">We have detected that the settings on your watch are different than those on the app.  Select which settings should be saved on both.</string>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QPV-XJ-k3K">
+                            <rect key="frame" x="35" y="115" width="30" height="30"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="bFB-c8-0ZF"/>
+                                <constraint firstAttribute="width" constant="30" id="lWT-kp-ovW"/>
+                            </constraints>
+                            <state key="normal" image="ApplicationSettingsInactive"/>
+                            <state key="selected" image="ApplicationSettingsActive"/>
+                            <connections>
+                                <action selector="promptButtonPressed:" destination="WcR-Jk-SNu" eventType="touchUpInside" id="JGa-Ir-IOz"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Do not show this again." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="VYk-dx-sVA">
+                            <rect key="frame" x="73" y="122" width="132" height="15"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="132" id="6Wo-iW-CJW"/>
+                                <constraint firstAttribute="height" constant="15" id="z4J-qB-FXJ"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="kYW-0M-PQT" firstAttribute="leading" secondItem="TGW-3H-6Ct" secondAttribute="leading" id="1I8-Jv-l1a"/>
+                        <constraint firstItem="QPV-XJ-k3K" firstAttribute="top" secondItem="pwW-SK-YMN" secondAttribute="bottom" constant="8" id="1ob-TH-k0H"/>
+                        <constraint firstItem="VYk-dx-sVA" firstAttribute="top" secondItem="pwW-SK-YMN" secondAttribute="bottom" constant="15" id="BZP-Xf-tEb"/>
+                        <constraint firstItem="pwW-SK-YMN" firstAttribute="leading" secondItem="TGW-3H-6Ct" secondAttribute="leading" constant="20" id="CdP-bo-RLn"/>
+                        <constraint firstAttribute="bottom" secondItem="FX2-Yt-IVT" secondAttribute="bottom" id="Ghn-zL-9Z0"/>
+                        <constraint firstAttribute="bottom" secondItem="kYW-0M-PQT" secondAttribute="bottom" id="L2v-EP-jJz"/>
+                        <constraint firstAttribute="trailing" secondItem="pwW-SK-YMN" secondAttribute="trailing" constant="20" id="Wq4-Qj-xFh"/>
+                        <constraint firstAttribute="trailing" secondItem="FX2-Yt-IVT" secondAttribute="trailing" id="Xgc-ui-JCE"/>
+                        <constraint firstItem="pwW-SK-YMN" firstAttribute="top" secondItem="TGW-3H-6Ct" secondAttribute="top" constant="17" id="a5H-0e-Jcj"/>
+                        <constraint firstItem="VYk-dx-sVA" firstAttribute="leading" secondItem="QPV-XJ-k3K" secondAttribute="trailing" constant="8" id="dEY-bL-dyi"/>
+                        <constraint firstItem="FX2-Yt-IVT" firstAttribute="leading" secondItem="kYW-0M-PQT" secondAttribute="trailing" id="eFs-7C-UG4"/>
+                        <constraint firstItem="QPV-XJ-k3K" firstAttribute="leading" secondItem="TGW-3H-6Ct" secondAttribute="leading" constant="35" id="mhI-Qd-TYr"/>
+                        <constraint firstAttribute="height" constant="185" id="u5y-06-T8v"/>
+                        <constraint firstAttribute="width" constant="240" id="w6S-5f-C43"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="HEV-9a-Xql" firstAttribute="top" secondItem="WcR-Jk-SNu" secondAttribute="top" id="UEc-nU-02S"/>
+                <constraint firstAttribute="trailing" secondItem="HEV-9a-Xql" secondAttribute="trailing" id="adb-zC-sDA"/>
+                <constraint firstItem="HEV-9a-Xql" firstAttribute="leading" secondItem="WcR-Jk-SNu" secondAttribute="leading" id="h0p-XU-Q8u"/>
+                <constraint firstAttribute="centerX" secondItem="TGW-3H-6Ct" secondAttribute="centerX" id="rd8-cu-Rbu"/>
+                <constraint firstAttribute="centerY" secondItem="TGW-3H-6Ct" secondAttribute="centerY" id="sB1-Ud-6eE"/>
+                <constraint firstAttribute="bottom" secondItem="HEV-9a-Xql" secondAttribute="bottom" id="skU-Ef-FW5"/>
+            </constraints>
+            <connections>
+                <outlet property="appButton" destination="kYW-0M-PQT" id="4rd-So-UHY"/>
+                <outlet property="backgroundView" destination="TGW-3H-6Ct" id="N81-dX-iQk"/>
+                <outlet property="showPromptButton" destination="QPV-XJ-k3K" id="JdH-yL-ABP"/>
+                <outlet property="watchButton" destination="FX2-Yt-IVT" id="mmQ-ga-Qi4"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="ApplicationSettingsActive" width="44" height="44"/>
+        <image name="ApplicationSettingsInactive" width="44" height="44"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

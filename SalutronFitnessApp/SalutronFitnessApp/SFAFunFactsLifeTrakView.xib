@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SFAFunFactsLifeTrakViewController">
+            <connections>
+                <outlet property="buttonConstraint1" destination="Y3W-WC-I5y" id="PKa-Ta-9Ek"/>
+                <outlet property="buttonConstraint2" destination="sjc-RZ-RGt" id="rCi-UU-eDB"/>
+                <outlet property="buttonConstraint3" destination="DQu-cR-qfQ" id="Ofh-mr-ko3"/>
+                <outlet property="closeButton" destination="rqW-Pq-78K" id="6fL-v1-qK3"/>
+                <outlet property="funChartTitle" destination="jnM-kr-FRe" id="Y47-aU-bmp"/>
+                <outlet property="funFactChartContent" destination="JlC-b3-IOK" id="Djc-de-UUl"/>
+                <outlet property="funFactChartImage" destination="JmA-mc-cxD" id="4lV-Gb-tmE"/>
+                <outlet property="funFactChartMoreButton" destination="mJF-OO-NoV" id="qiS-13-JAo"/>
+                <outlet property="funFactChartView" destination="MnX-qB-Lbp" id="WU7-yP-xyS"/>
+                <outlet property="funFactContent" destination="Fcu-PF-mpk" id="LMp-Sj-tVy"/>
+                <outlet property="funFactIcon" destination="dS5-nV-8ft" id="tLg-RG-jPi"/>
+                <outlet property="funFactTitle" destination="TSm-HX-syh" id="4Xr-QT-EVC"/>
+                <outlet property="funFactsView" destination="69m-JK-JlF" id="SlJ-tH-THy"/>
+                <outlet property="moreFactsButton1" destination="M1j-nH-cX5" id="Qp5-Bb-kzO"/>
+                <outlet property="moreFactsButton2" destination="XeN-3q-18M" id="xTj-nc-m9B"/>
+                <outlet property="moreFactsButton3" destination="2OZ-yA-qOF" id="V9E-Rb-rmX"/>
+                <outlet property="view" destination="iN0-l3-epB" id="qiV-Xh-KD6"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view alpha="0.5" contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="69m-JK-JlF">
+                    <rect key="frame" x="24" y="75" width="273" height="418"/>
+                    <subviews>
+                        <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2OZ-yA-qOF">
+                            <rect key="frame" x="15" y="365" width="243" height="18"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="18" id="DQu-cR-qfQ"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                            <state key="normal" title="Tell me about light and sleep">
+                                <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="moreFactsButton3Clicked:" destination="-1" eventType="touchUpInside" id="2EQ-Uy-cZJ"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="M1j-nH-cX5">
+                            <rect key="frame" x="8" y="313" width="257" height="18"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="18" id="Y3W-WC-I5y"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                            <state key="normal" title="What is blue light?">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="moreFactsButton1Clicked:" destination="-1" eventType="touchUpInside" id="PaF-8h-eoA"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="morninglight" translatesAutoresizingMaskIntoConstraints="NO" id="dS5-nV-8ft">
+                            <rect key="frame" x="83" y="35" width="106" height="80"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="80" id="PzS-kT-9kd"/>
+                                <constraint firstAttribute="width" constant="106" id="bIn-aR-IOX"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Fcu-PF-mpk">
+                            <rect key="frame" x="15" y="161" width="243" height="144"/>
+                            <string key="text">There are special photoreceptors in the human eye that help regulate the sleep hormone melatonin based on the amount of light it receives. It’s especially sensitive to blue light frequencies.</string>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rqW-Pq-78K">
+                            <rect key="frame" x="218" y="0.0" width="55" height="55"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="55" id="8BB-fy-R6v"/>
+                                <constraint firstAttribute="height" constant="55" id="u5u-6C-f86"/>
+                            </constraints>
+                            <inset key="contentEdgeInsets" minX="15" minY="15" maxX="15" maxY="15"/>
+                            <state key="normal" image="MenuLogout">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="closeButtonClicked:" destination="-1" eventType="touchUpInside" id="WPZ-Is-qnT"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XeN-3q-18M">
+                            <rect key="frame" x="8" y="339" width="257" height="18"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="18" id="sjc-RZ-RGt"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                            <state key="normal" title="What is blue light?">
+                                <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="moreFactsButton2Clicked:" destination="-1" eventType="touchUpInside" id="FvY-wD-XhC"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Did you know?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="TSm-HX-syh">
+                            <rect key="frame" x="8" y="132" width="257" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="21" id="Aaa-bu-SxS"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="2OZ-yA-qOF" firstAttribute="top" secondItem="XeN-3q-18M" secondAttribute="bottom" constant="8" id="0OP-rs-l3e"/>
+                        <constraint firstItem="TSm-HX-syh" firstAttribute="top" secondItem="dS5-nV-8ft" secondAttribute="bottom" constant="17" id="0cd-HT-SMX"/>
+                        <constraint firstItem="TSm-HX-syh" firstAttribute="leading" secondItem="69m-JK-JlF" secondAttribute="leading" constant="8" id="BDV-QV-IBS"/>
+                        <constraint firstItem="2OZ-yA-qOF" firstAttribute="leading" secondItem="69m-JK-JlF" secondAttribute="leading" constant="15" id="Bwz-0g-G0H"/>
+                        <constraint firstAttribute="centerX" secondItem="dS5-nV-8ft" secondAttribute="centerX" id="E5D-2o-mfT"/>
+                        <constraint firstItem="M1j-nH-cX5" firstAttribute="leading" secondItem="69m-JK-JlF" secondAttribute="leading" constant="8" id="LH5-Ap-Yai"/>
+                        <constraint firstAttribute="trailing" secondItem="M1j-nH-cX5" secondAttribute="trailing" constant="8" id="N6e-wm-ned"/>
+                        <constraint firstItem="dS5-nV-8ft" firstAttribute="top" secondItem="69m-JK-JlF" secondAttribute="top" constant="35" id="NVK-bC-fiF"/>
+                        <constraint firstAttribute="width" constant="273" id="PV1-oG-eBD"/>
+                        <constraint firstItem="XeN-3q-18M" firstAttribute="top" secondItem="M1j-nH-cX5" secondAttribute="bottom" constant="8" id="SdC-mh-QC1"/>
+                        <constraint firstItem="XeN-3q-18M" firstAttribute="leading" secondItem="69m-JK-JlF" secondAttribute="leading" constant="8" id="TSH-5I-ejM"/>
+                        <constraint firstAttribute="trailing" secondItem="TSm-HX-syh" secondAttribute="trailing" constant="8" id="UdS-1E-maY"/>
+                        <constraint firstItem="M1j-nH-cX5" firstAttribute="top" secondItem="Fcu-PF-mpk" secondAttribute="bottom" constant="8" id="VjH-Y0-uvL"/>
+                        <constraint firstAttribute="bottom" secondItem="2OZ-yA-qOF" secondAttribute="bottom" constant="35" id="YCW-Tu-cJN"/>
+                        <constraint firstAttribute="trailing" secondItem="rqW-Pq-78K" secondAttribute="trailing" id="b6C-JT-caP"/>
+                        <constraint firstItem="Fcu-PF-mpk" firstAttribute="top" secondItem="TSm-HX-syh" secondAttribute="bottom" constant="8" id="cGL-u4-yIo"/>
+                        <constraint firstItem="XeN-3q-18M" firstAttribute="top" secondItem="M1j-nH-cX5" secondAttribute="bottom" constant="8" id="d9N-GP-PeB"/>
+                        <constraint firstItem="Fcu-PF-mpk" firstAttribute="leading" secondItem="69m-JK-JlF" secondAttribute="leading" constant="15" id="ghY-1A-g1w"/>
+                        <constraint firstAttribute="trailing" secondItem="XeN-3q-18M" secondAttribute="trailing" constant="8" id="mTu-Wy-UfF"/>
+                        <constraint firstItem="2OZ-yA-qOF" firstAttribute="top" secondItem="XeN-3q-18M" secondAttribute="bottom" constant="8" id="nZL-ob-Vib"/>
+                        <constraint firstItem="rqW-Pq-78K" firstAttribute="top" secondItem="69m-JK-JlF" secondAttribute="top" id="oAm-td-ELH"/>
+                        <constraint firstAttribute="trailing" secondItem="Fcu-PF-mpk" secondAttribute="trailing" constant="15" id="qJv-dq-cSK"/>
+                        <constraint firstAttribute="trailing" secondItem="2OZ-yA-qOF" secondAttribute="trailing" constant="15" id="qdv-zf-OkA"/>
+                        <constraint firstItem="M1j-nH-cX5" firstAttribute="top" secondItem="Fcu-PF-mpk" secondAttribute="bottom" constant="8" id="uVp-72-ANP"/>
+                        <constraint firstItem="Fcu-PF-mpk" firstAttribute="top" secondItem="TSm-HX-syh" secondAttribute="bottom" constant="8" id="xOY-x6-pYz"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MnX-qB-Lbp">
+                    <rect key="frame" x="23" y="75" width="273" height="418"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Did you know?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="jnM-kr-FRe">
+                            <rect key="frame" x="8" y="40" width="257" height="24"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="24" id="w1a-1X-7Mi"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="JlC-b3-IOK">
+                            <rect key="frame" x="15" y="72" width="243" height="121"/>
+                            <string key="text">There are special photoreceptors in the human eye that help regulate the sleep hormone melatonin based on the amount of light it receives. It’s especially sensitive to blue light frequencies.</string>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="morninglightneeds" translatesAutoresizingMaskIntoConstraints="NO" id="JmA-mc-cxD">
+                            <rect key="frame" x="15" y="211" width="243" height="121"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="243" id="2Pu-BR-eMv"/>
+                            </constraints>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="mJF-OO-NoV">
+                            <rect key="frame" x="46" y="346" width="180" height="37"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="180" id="sTf-aw-3rp"/>
+                                <constraint firstAttribute="height" constant="37" id="t1z-tt-VAk"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                            <state key="normal" title="Tell me about the Evening Light Alert">
+                                <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="moreButtonChartClicked:" destination="-1" eventType="touchUpInside" id="Go5-og-7kQ"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TOe-ws-5zt">
+                            <rect key="frame" x="218" y="0.0" width="55" height="55"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="55" id="Bau-Ih-Wrj"/>
+                                <constraint firstAttribute="height" constant="55" id="jiH-RJ-1Dy"/>
+                            </constraints>
+                            <inset key="contentEdgeInsets" minX="15" minY="15" maxX="15" maxY="15"/>
+                            <state key="normal" image="MenuLogout">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="closeButtonClicked:" destination="-1" eventType="touchUpInside" id="oVx-Gs-a1P"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="jnM-kr-FRe" secondAttribute="trailing" constant="8" id="1E4-Wl-7Uz"/>
+                        <constraint firstAttribute="trailing" secondItem="JlC-b3-IOK" secondAttribute="trailing" constant="15" id="DV9-hs-3sq"/>
+                        <constraint firstAttribute="trailing" secondItem="TOe-ws-5zt" secondAttribute="trailing" id="DbI-lD-vng"/>
+                        <constraint firstItem="JlC-b3-IOK" firstAttribute="top" secondItem="jnM-kr-FRe" secondAttribute="bottom" constant="8" id="GUW-vq-qQC"/>
+                        <constraint firstItem="JlC-b3-IOK" firstAttribute="leading" secondItem="MnX-qB-Lbp" secondAttribute="leading" constant="15" id="IUH-jv-mXB"/>
+                        <constraint firstItem="mJF-OO-NoV" firstAttribute="top" secondItem="JmA-mc-cxD" secondAttribute="bottom" constant="14" id="Pci-i7-C0L"/>
+                        <constraint firstItem="TOe-ws-5zt" firstAttribute="top" secondItem="MnX-qB-Lbp" secondAttribute="top" id="QVj-Tg-L79"/>
+                        <constraint firstItem="mJF-OO-NoV" firstAttribute="leading" secondItem="MnX-qB-Lbp" secondAttribute="leading" constant="46" id="VOv-LP-tgZ"/>
+                        <constraint firstItem="mJF-OO-NoV" firstAttribute="top" secondItem="JmA-mc-cxD" secondAttribute="bottom" constant="14" id="YSv-Qw-Sct"/>
+                        <constraint firstAttribute="width" constant="273" id="b67-0I-qCq"/>
+                        <constraint firstItem="JmA-mc-cxD" firstAttribute="leading" secondItem="MnX-qB-Lbp" secondAttribute="leading" constant="15" id="doQ-Ft-mJO"/>
+                        <constraint firstAttribute="bottom" secondItem="mJF-OO-NoV" secondAttribute="bottom" constant="35" id="eIk-qp-J4W"/>
+                        <constraint firstItem="jnM-kr-FRe" firstAttribute="leading" secondItem="MnX-qB-Lbp" secondAttribute="leading" constant="8" id="eiK-oy-kTG"/>
+                        <constraint firstAttribute="trailing" secondItem="mJF-OO-NoV" secondAttribute="trailing" constant="47" id="fMq-rC-cg0"/>
+                        <constraint firstItem="JmA-mc-cxD" firstAttribute="top" secondItem="JlC-b3-IOK" secondAttribute="bottom" constant="18" id="l5G-vl-2c5"/>
+                        <constraint firstItem="JmA-mc-cxD" firstAttribute="top" secondItem="JlC-b3-IOK" secondAttribute="bottom" constant="18" id="mEE-nh-l62"/>
+                        <constraint firstItem="jnM-kr-FRe" firstAttribute="top" secondItem="MnX-qB-Lbp" secondAttribute="top" constant="40" id="nRM-9e-We3"/>
+                        <constraint firstAttribute="trailing" secondItem="JmA-mc-cxD" secondAttribute="trailing" constant="15" id="oSj-P2-ou0"/>
+                        <constraint firstItem="JmA-mc-cxD" firstAttribute="height" secondItem="JlC-b3-IOK" secondAttribute="height" id="thm-Rf-5yY"/>
+                        <constraint firstItem="JlC-b3-IOK" firstAttribute="top" secondItem="jnM-kr-FRe" secondAttribute="bottom" constant="8" id="xVP-Lk-3VM"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="centerX" secondItem="69m-JK-JlF" secondAttribute="centerX" id="5Ji-7N-BlE"/>
+                <constraint firstAttribute="centerX" secondItem="MnX-qB-Lbp" secondAttribute="centerX" id="Ayk-fk-sWc"/>
+                <constraint firstAttribute="centerY" secondItem="69m-JK-JlF" secondAttribute="centerY" id="J5w-dT-pAC"/>
+                <constraint firstAttribute="bottom" secondItem="MnX-qB-Lbp" secondAttribute="bottom" constant="75" id="iiL-uY-Ph6"/>
+                <constraint firstItem="MnX-qB-Lbp" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="75" id="jLg-rW-33r"/>
+                <constraint firstItem="69m-JK-JlF" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="75" id="pk6-jC-1lH"/>
+                <constraint firstAttribute="bottom" secondItem="69m-JK-JlF" secondAttribute="bottom" constant="75" id="uvZ-mO-xKp"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="285" y="314"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="MenuLogout" width="44" height="44"/>
+        <image name="morninglight" width="86" height="86"/>
+        <image name="morninglightneeds" width="225" height="138"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

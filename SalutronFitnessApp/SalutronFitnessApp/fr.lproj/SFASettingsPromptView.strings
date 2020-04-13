@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "Montre"; ObjectID = "FX2-Yt-IVT"; */
+"FX2-Yt-IVT.normalTitle" = "Montre";
+
+/* Class = "IBUILabel"; text = "Ne plus afficher ce message."; ObjectID = "VYk-dx-sVA"; */
+"VYk-dx-sVA.text" = "Ne plus afficher ce message.";
+
+/* Class = "IBUIButton"; normalTitle = "Appli"; ObjectID = "kYW-0M-PQT"; */
+"kYW-0M-PQT.normalTitle" = "App";
+
+/* Class = "IBUILabel"; text = "Nous avons détecté que les paramètres de votre montre avaient changé. Choisissez quels paramètres enregistrer."; ObjectID = "pwW-SK-YMN"; */
+"pwW-SK-YMN.text" = "Nous avons détecté que les paramètres de votre montre avaient changé. Choisissez quels paramètres enregistrer.";

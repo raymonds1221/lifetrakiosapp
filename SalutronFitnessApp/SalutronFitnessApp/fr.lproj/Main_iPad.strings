@@ -1,0 +1,633 @@
+
+/* Class = "IBUILabel"; text = "male"; ObjectID = "009-IP-VCZ"; */
+"009-IP-VCZ.text" = "homme";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "06k-7v-8Ig"; */
+"06k-7v-8Ig.text" = "Label";
+
+/* Class = "IBUILabel"; text = "GOAL"; ObjectID = "0dc-Rp-Nss"; */
+"0dc-Rp-Nss.text" = "BUT";
+
+/* Class = "IBUILabel"; text = "10%"; ObjectID = "19c-be-3TW"; */
+"19c-be-3TW.text" = "10%";
+
+/* Class = "IBUINavigationItem"; title = "Application Settings"; ObjectID = "1OF-Ya-rM9"; */
+"1OF-Ya-rM9.title" = "Application Settings";
+
+/* Class = "IBUILabel"; text = "hr"; ObjectID = "1T4-Hu-2gS"; */
+"1T4-Hu-2gS.text" = "hr";
+
+/* Class = "IBUILabel"; text = "Compatible Apps"; ObjectID = "1UU-Sm-vcz"; */
+"1UU-Sm-vcz.text" = "Apps Compatible";
+
+/* Class = "IBUILabel"; text = "100%"; ObjectID = "1dl-OB-iLT"; */
+"1dl-OB-iLT.text" = "100%";
+
+/* Class = "IBUILabel"; text = "12PM"; ObjectID = "1o8-WC-lGS"; */
+"1o8-WC-lGS.text" = "12 APRÈS-MIDI";
+
+/* Class = "IBUITextField"; text = "1 minute"; ObjectID = "2Ft-7l-UhA"; */
+"2Ft-7l-UhA.text" = "1 minute";
+
+/* Class = "IBUINavigationItem"; title = "Compatible Apps"; ObjectID = "2Sc-9s-ie9"; */
+"2Sc-9s-ie9.title" = "Apps Compatible";
+
+/* Class = "IBUINavigationItem"; title = "Your Profile"; ObjectID = "2jn-p3-dCA"; */
+"2jn-p3-dCA.title" = "Votre profil";
+
+/* Class = "IBUILabel"; text = "kg"; ObjectID = "2w2-tN-LAc"; */
+"2w2-tN-LAc.text" = "kg";
+
+/* Class = "IBUILabel"; text = "female"; ObjectID = "31r-JV-Xim"; */
+"31r-JV-Xim.text" = "femme";
+
+/* Class = "IBUILabel"; text = "Pairing Zone 310"; ObjectID = "3XL-1P-O5z"; */
+"3XL-1P-O5z.text" = "Pairing Zone 310";
+
+/* Class = "IBUILabel"; text = "bpm"; ObjectID = "4bQ-X4-wOn"; */
+"4bQ-X4-wOn.text" = "bpm";
+
+/* Class = "IBUILabel"; text = "0 times"; ObjectID = "4xD-xA-eYK"; */
+"4xD-xA-eYK.text" = "0 fois";
+
+/* Class = "IBUINavigationItem"; title = "Calories"; ObjectID = "4y6-xC-Tjt"; */
+"4y6-xC-Tjt.title" = "Calories";
+
+/* Class = "IBUILabel"; text = "Disconnect Watch"; ObjectID = "4zk-2g-hn6"; */
+"4zk-2g-hn6.text" = "Disconnect Watch";
+
+/* Class = "IBUILabel"; text = "Gender"; ObjectID = "5Xt-Oe-DBK"; */
+"5Xt-Oe-DBK.text" = "Sexe";
+
+/* Class = "IBUINavigationItem"; title = "Heart Rate"; ObjectID = "5ZR-CT-7gv"; */
+"5ZR-CT-7gv.title" = "Fréquence cardiaque";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5gc-SJ-HU3"; */
+"5gc-SJ-HU3.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "5ne-bw-NFc"; */
+"5ne-bw-NFc.text" = "0";
+
+/* Class = "IBUILabel"; text = "No workout recorded for the day."; ObjectID = "5ts-f6-0Td"; */
+"5ts-f6-0Td.text" = "Aucun exercice enregistré ce jour.";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "6QN-Ef-ZAf"; */
+"6QN-Ef-ZAf.text" = "1.0";
+
+/* Class = "IBUISegmentedControl"; 6jX-o4-XNN.segmentTitles[0] = "Day"; ObjectID = "6jX-o4-XNN"; */
+"6jX-o4-XNN.segmentTitles[0]" = "Jour";
+
+/* Class = "IBUISegmentedControl"; 6jX-o4-XNN.segmentTitles[1] = "Week"; ObjectID = "6jX-o4-XNN"; */
+"6jX-o4-XNN.segmentTitles[1]" = "Semaine";
+
+/* Class = "IBUISegmentedControl"; 6jX-o4-XNN.segmentTitles[2] = "Month"; ObjectID = "6jX-o4-XNN"; */
+"6jX-o4-XNN.segmentTitles[2]" = "Mois";
+
+/* Class = "IBUISegmentedControl"; 6jX-o4-XNN.segmentTitles[3] = "Year"; ObjectID = "6jX-o4-XNN"; */
+"6jX-o4-XNN.segmentTitles[3]" = "Année";
+
+/* Class = "IBUINavigationItem"; title = "Daily Fitness Results"; ObjectID = "6xY-Cb-NQs"; */
+"6xY-Cb-NQs.title" = "Résultats du conditionnement journalier";
+
+/* Class = "IBUILabel"; text = "+25%"; ObjectID = "7OL-Pc-cCu"; */
+"7OL-Pc-cCu.text" = "+25%";
+
+/* Class = "IBUINavigationItem"; title = "Your Profile"; ObjectID = "7Pj-hy-0QB"; */
+"7Pj-hy-0QB.title" = "Votre profil";
+
+/* Class = "IBUITextView"; text = "Add a note"; ObjectID = "7az-2a-o3T"; */
+"7az-2a-o3T.text" = "Add a note";
+
+/* Class = "IBUILabel"; text = "kg"; ObjectID = "82r-cf-SWV"; */
+"82r-cf-SWV.text" = "kg";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "8Ou-4G-LNK"; */
+"8Ou-4G-LNK.text" = "0";
+
+/* Class = "IBUILabel"; text = "Help"; ObjectID = "8Wt-3F-YL7"; */
+"8Wt-3F-YL7.text" = "Aide";
+
+/* Class = "IBUIButton"; normalTitle = "CONNECT TO DEVICE"; ObjectID = "8kx-7h-ahz"; */
+"8kx-7h-ahz.normalTitle" = "Connecter à l'appareil";
+
+/* Class = "IBUILabel"; text = "1.75"; ObjectID = "8m0-vM-3bR"; */
+"8m0-vM-3bR.text" = "1.75";
+
+/* Class = "IBUILabel"; text = "STEPS"; ObjectID = "9C4-9C-gD9"; */
+"9C4-9C-gD9.text" = "PAS";
+
+/* Class = "IBUILabel"; text = "GOAL 1000"; ObjectID = "9Vs-UO-Pfv"; */
+"9Vs-UO-Pfv.text" = "BUT 1000";
+
+/* Class = "IBUITextField"; text = "1 minute"; ObjectID = "9lD-lb-ymd"; */
+"9lD-lb-ymd.text" = "1 minute";
+
+/* Class = "IBUIButton"; normalTitle = "CALORIES"; ObjectID = "9nJ-hn-vwq"; */
+"9nJ-hn-vwq.normalTitle" = "CALORIES";
+
+/* Class = "IBUILabel"; text = "No sleep recorded for the day."; ObjectID = "A7y-v4-ly0"; */
+"A7y-v4-ly0.text" = "Aucun sommeil enregistré ce jour.";
+
+/* Class = "IBUILabel"; text = "Choose a watch you want to connect."; ObjectID = "Ama-UK-SFc"; */
+"Ama-UK-SFc.text" = "Choisissez la montre que vous voulez connecter.";
+
+/* Class = "IBUILabel"; text = "GOAL 1000"; ObjectID = "BNY-Ua-aGe"; */
+"BNY-Ua-aGe.text" = "BUT 1000";
+
+/* Class = "IBUILabel"; text = "LIGHT"; ObjectID = "BYp-LC-Gm0"; */
+"BYp-LC-Gm0.text" = "LIGHT";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "BiB-OR-CLM"; */
+"BiB-OR-CLM.text" = "1000";
+
+/* Class = "IBUITextField"; text = "MONTHLY"; ObjectID = "BmI-xQ-8ht"; */
+"BmI-xQ-8ht.text" = "MENSUEL";
+
+/* Class = "IBUIBarButtonItem"; title = "Menu"; ObjectID = "CSs-6Y-Zbf"; */
+"CSs-6Y-Zbf.title" = "Menu";
+
+/* Class = "IBUILabel"; text = "STEPS"; ObjectID = "D75-7g-3je"; */
+"D75-7g-3je.text" = "PAS";
+
+/* Class = "IBUILabel"; text = "10%"; ObjectID = "DbG-zQ-qWl"; */
+"DbG-zQ-qWl.text" = "10%";
+
+/* Class = "IBUILabel"; text = "LIGHT SLEEP"; ObjectID = "Fen-N8-DkY"; */
+"Fen-N8-DkY.text" = "SOMMEIL LÉGER";
+
+/* Class = "IBUILabel"; text = "Move C300"; ObjectID = "Fl6-YR-En1"; */
+"Fl6-YR-En1.text" = "Move C300";
+
+/* Class = "IBUILabel"; text = "HEIGHT"; ObjectID = "Fs5-3U-F41"; */
+"Fs5-3U-F41.text" = "TAILLE";
+
+/* Class = "IBUILabel"; text = "Wake Up Alert"; ObjectID = "GN7-rI-ELI"; */
+"GN7-rI-ELI.text" = "Wake Up Alert";
+
+/* Class = "IBUILabel"; text = "Notifications"; ObjectID = "GXk-1d-ueG"; */
+"GXk-1d-ueG.text" = "Notifications";
+
+/* Class = "IBUILabel"; text = "DISTANCE"; ObjectID = "Gak-Y7-QXz"; */
+"Gak-Y7-QXz.text" = "DISTANCE";
+
+/* Class = "IBUILabel"; text = "Auto EL"; ObjectID = "Goc-tZ-S3l"; */
+"Goc-tZ-S3l.text" = "EL automatique";
+
+/* Class = "IBUILabel"; text = "WORKOUT"; ObjectID = "Gr2-wm-KXo"; */
+"Gr2-wm-KXo.text" = "EXERCICE";
+
+/* Class = "IBUILabel"; text = "AVG HEART RATE"; ObjectID = "HOq-0R-UgP"; */
+"HOq-0R-UgP.text" = "AVG FRÉQ CARD";
+
+/* Class = "IBUILabel"; text = "AVG BPM"; ObjectID = "HYl-Xb-Fvr"; */
+"HYl-Xb-Fvr.text" = "BPM MOY";
+
+/* Class = "IBUILabel"; text = "10:00 AM"; ObjectID = "IId-RS-cwm"; */
+"IId-RS-cwm.text" = "10:00 MATIN";
+
+/* Class = "IBUIButton"; normalTitle = "Connect a New Watch"; ObjectID = "IPh-7A-Tuz"; */
+"IPh-7A-Tuz.normalTitle" = "Connecter une nouvelle montre";
+
+/* Class = "IBUILabel"; text = "GOAL"; ObjectID = "JxX-OH-0bu"; */
+"JxX-OH-0bu.text" = "BUT";
+
+/* Class = "IBUINavigationItem"; title = "Actigraphy"; ObjectID = "KZH-4q-9BC"; */
+"KZH-4q-9BC.title" = "Durée D'activité";
+
+/* Class = "IBUILabel"; text = "DEEP SLEEP"; ObjectID = "KfL-lQ-1nm"; */
+"KfL-lQ-1nm.text" = "SOMMEIL PROFOND";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "KxE-QG-7bt"; */
+"KxE-QG-7bt.text" = "0";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "LQX-HS-eMs"; */
+"LQX-HS-eMs.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Snooze Time"; ObjectID = "Ld7-uU-95C"; */
+"Ld7-uU-95C.text" = "Heure du rappel";
+
+/* Class = "IBUINavigationItem"; title = "Pair Device"; ObjectID = "ME5-mb-1vW"; */
+"ME5-mb-1vW.title" = "Dispositif de Jumelage";
+
+/* Class = "IBUINavigationItem"; title = "Watch Settings"; ObjectID = "McV-Dc-zHc"; */
+"McV-Dc-zHc.title" = "Watch Settings";
+
+/* Class = "IBUILabel"; text = "CALORIES"; ObjectID = "Mn8-YT-fNm"; */
+"Mn8-YT-fNm.text" = "CALORIES";
+
+/* Class = "IBUILabel"; text = "Move C300"; ObjectID = "NDe-nt-LKi"; */
+"NDe-nt-LKi.text" = "Move C300";
+
+/* Class = "IBUILabel"; text = "-25%"; ObjectID = "NRp-aU-tob"; */
+"NRp-aU-tob.text" = "-25%";
+
+/* Class = "IBUILabel"; text = "v 1.0"; ObjectID = "Nhl-E6-DiO"; */
+"Nhl-E6-DiO.text" = "v 1.0";
+
+/* Class = "IBUILabel"; text = "GOAL 1000"; ObjectID = "Nrr-uy-YmZ"; */
+"Nrr-uy-YmZ.text" = "BUT 1000";
+
+/* Class = "IBUINavigationItem"; title = "Today's Targets"; ObjectID = "OHT-0e-EmF"; */
+"OHT-0e-EmF.title" = "Cibles du jour";
+
+/* Class = "IBUISegmentedControl"; OKX-WI-eVX.segmentTitles[0] = "Live"; ObjectID = "OKX-WI-eVX"; */
+"OKX-WI-eVX.segmentTitles[0]" = "en direct";
+
+/* Class = "IBUISegmentedControl"; OKX-WI-eVX.segmentTitles[1] = "Day"; ObjectID = "OKX-WI-eVX"; */
+"OKX-WI-eVX.segmentTitles[1]" = "Jour";
+
+/* Class = "IBUISegmentedControl"; OKX-WI-eVX.segmentTitles[2] = "Week"; ObjectID = "OKX-WI-eVX"; */
+"OKX-WI-eVX.segmentTitles[2]" = "Semaine";
+
+/* Class = "IBUISegmentedControl"; OKX-WI-eVX.segmentTitles[3] = "Month"; ObjectID = "OKX-WI-eVX"; */
+"OKX-WI-eVX.segmentTitles[3]" = "Mois";
+
+/* Class = "IBUISegmentedControl"; OKX-WI-eVX.segmentTitles[4] = "Year"; ObjectID = "OKX-WI-eVX"; */
+"OKX-WI-eVX.segmentTitles[4]" = "Année";
+
+/* Class = "IBUILabel"; text = "100%"; ObjectID = "P1j-Pn-mCh"; */
+"P1j-Pn-mCh.text" = "100%";
+
+/* Class = "IBUILabel"; text = "BIRTHDAY"; ObjectID = "PPI-p2-ZDQ"; */
+"PPI-p2-ZDQ.text" = "DATE DE NAISSANCE";
+
+/* Class = "IBUINavigationItem"; title = "Set up Device"; ObjectID = "PXb-V6-8i1"; */
+"PXb-V6-8i1.title" = "Configuration de l'appareil";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "QQA-7t-x1z"; */
+"QQA-7t-x1z.text" = "100";
+
+/* Class = "IBUILabel"; text = "Move C300"; ObjectID = "QZU-rt-KWG"; */
+"QZU-rt-KWG.text" = "Move C300";
+
+/* Class = "IBUILabel"; text = "female"; ObjectID = "Qaf-43-UrR"; */
+"Qaf-43-UrR.text" = "femme";
+
+/* Class = "IBUITextField"; text = "Jul 13, 2013"; ObjectID = "QsV-DK-2yg"; */
+"QsV-DK-2yg.text" = "Jul 13, 2013";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "QvO-mW-ylx"; */
+"QvO-mW-ylx.text" = "1000";
+
+/* Class = "IBUILabel"; text = "CALORIES"; ObjectID = "RJp-WP-gun"; */
+"RJp-WP-gun.text" = "CALORIES";
+
+/* Class = "IBUILabel"; text = "STEPS"; ObjectID = "RNZ-yR-esc"; */
+"RNZ-yR-esc.text" = "PAS";
+
+/* Class = "IBUILabel"; text = "CALORIES"; ObjectID = "Ryc-EI-5qO"; */
+"Ryc-EI-5qO.text" = "CALORIES";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "SCU-Hn-amO"; */
+"SCU-Hn-amO.title" = "Annuler";
+
+/* Class = "IBUIButton"; normalTitle = "HEART RATE"; ObjectID = "SHz-3f-Xqu"; */
+"SHz-3f-Xqu.normalTitle" = "FRÉQ CARD";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "Spc-ns-Hw0"; */
+"Spc-ns-Hw0.text" = "1";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "TAX-Ou-4zn"; */
+"TAX-Ou-4zn.normalTitle" = "Button";
+
+/* Class = "IBUINavigationItem"; title = "Help"; ObjectID = "TGZ-in-fTk"; */
+"TGZ-in-fTk.title" = "Aide";
+
+/* Class = "IBUILabel"; text = "Window"; ObjectID = "Td2-3R-E0S"; */
+"Td2-3R-E0S.text" = "Window";
+
+/* Class = "IBUILabel"; text = "WORKOUT"; ObjectID = "Tht-fu-O7Z"; */
+"Tht-fu-O7Z.text" = "EXERCICE";
+
+/* Class = "IBUILabel"; text = "Wake Up Time"; ObjectID = "UL5-tl-AhU"; */
+"UL5-tl-AhU.text" = "Heure de réveil";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Uds-6E-hpY"; */
+"Uds-6E-hpY.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Incoming Call"; ObjectID = "Unm-TB-YbS"; */
+"Unm-TB-YbS.text" = "Incoming Call";
+
+/* Class = "IBUILabel"; text = "Giving accurate information helps us\nhelp YOU better."; ObjectID = "Vxw-Sa-LfC"; */
+"Vxw-Sa-LfC.text" = "Donnez des informations précises pour que nous puissions\nmieux VOUS aider.";
+
+/* Class = "IBUIButton"; normalTitle = "Smart Calibration"; ObjectID = "W8D-Ns-JTf"; */
+"W8D-Ns-JTf.normalTitle" = "réglage intelligent";
+
+/* Class = "IBUILabel"; text = "100%"; ObjectID = "WG5-cO-CG9"; */
+"WG5-cO-CG9.text" = "100%";
+
+/* Class = "IBUITextField"; text = "65"; ObjectID = "WXc-6q-Hge"; */
+"WXc-6q-Hge.text" = "65";
+
+/* Class = "IBUINavigationItem"; title = "Sync Device"; ObjectID = "Wl7-9u-2Ks"; */
+"Wl7-9u-2Ks.title" = "Sync Device";
+
+/* Class = "IBUILabel"; text = "0%"; ObjectID = "XKt-JN-GPL"; */
+"XKt-JN-GPL.text" = "0%";
+
+/* Class = "IBUINavigationItem"; title = "Workout"; ObjectID = "Y5c-az-bNk"; */
+"Y5c-az-bNk.title" = "Exercice";
+
+/* Class = "IBUINavigationItem"; title = "Notifications"; ObjectID = "YVd-aa-gUL"; */
+"YVd-aa-gUL.title" = "Notifications";
+
+/* Class = "IBUILabel"; text = "DISTANCE"; ObjectID = "Ynh-lD-qES"; */
+"Ynh-lD-qES.text" = "DISTANCE";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "ZLs-Dc-Eb5"; */
+"ZLs-Dc-Eb5.text" = "1000";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "ZN0-RC-qWO"; */
+"ZN0-RC-qWO.title" = "Annuler";
+
+/* Class = "IBUILabel"; text = "km"; ObjectID = "Zk6-uc-U96"; */
+"Zk6-uc-U96.text" = "km";
+
+/* Class = "IBUITextField"; text = "DAILY"; ObjectID = "aDy-pa-bGB"; */
+"aDy-pa-bGB.text" = "JOURNALIER";
+
+/* Class = "IBUILabel"; text = "10:00 AM"; ObjectID = "aNo-9J-0uf"; */
+"aNo-9J-0uf.text" = "10:00 MATIN";
+
+/* Class = "IBUILabel"; text = "TOTAL TIME ASLEEP"; ObjectID = "agD-fE-YvT"; */
+"agD-fE-YvT.text" = "DURÉE DE SOMMEIL TOTALE";
+
+/* Class = "IBUINavigationItem"; title = "LifeTrak"; ObjectID = "b73-TQ-5dF"; */
+"b73-TQ-5dF.title" = "LifeTrak";
+
+/* Class = "IBUILabel"; text = "MAX"; ObjectID = "bAe-dJ-8Eu"; */
+"bAe-dJ-8Eu.text" = "MAX";
+
+/* Class = "IBUILabel"; text = "Daily fitness results"; ObjectID = "bZw-sV-cbO"; */
+"bZw-sV-cbO.text" = "Résultats du conditionnement journalier";
+
+/* Class = "IBUILabel"; text = "Make sure that you have selected the correct LifeTrak watch model to pair with."; ObjectID = "bgE-WN-5Wi"; */
+"bgE-WN-5Wi.text" = "Assurez-vous que vous avez sélectionné le modèle de montre LifeTrak correcte de paire avec.";
+
+/* Class = "IBUILabel"; text = "10,000"; ObjectID = "bt8-yk-7CD"; */
+"bt8-yk-7CD.text" = "10,000";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "cLi-ec-ILw"; */
+"cLi-ec-ILw.text" = "1000";
+
+/* Class = "IBUITextField"; text = "0:00"; ObjectID = "cTj-38-G5X"; */
+"cTj-38-G5X.text" = "0:00";
+
+/* Class = "IBUILabel"; text = "%"; ObjectID = "cjt-Xf-chO"; */
+"cjt-Xf-chO.text" = "%";
+
+/* Class = "IBUIButton"; normalTitle = "DISTANCE"; ObjectID = "clk-16-pGd"; */
+"clk-16-pGd.normalTitle" = "DISTANCE";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "cnr-Fq-hYt"; */
+"cnr-Fq-hYt.title" = "Item";
+
+/* Class = "IBUINavigationItem"; title = "Lifetrak"; ObjectID = "co3-mQ-tvB"; */
+"co3-mQ-tvB.title" = "Lifetrak";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "d2v-ZG-Wc0"; */
+"d2v-ZG-Wc0.normalTitle" = "Continuer";
+
+/* Class = "IBUILabel"; text = "Don't forget to record your heart rate!"; ObjectID = "d9B-zk-fBI"; */
+"d9B-zk-fBI.text" = "Don't forget to record your heart rate!";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "dD0-TF-J2u"; */
+"dD0-TF-J2u.text" = "1000";
+
+/* Class = "IBUINavigationItem"; title = "LifeTrak"; ObjectID = "dEu-VY-cMU"; */
+"dEu-VY-cMU.title" = "LifeTrak";
+
+/* Class = "IBUILabel"; text = "Snooze"; ObjectID = "dKM-NV-IB8"; */
+"dKM-NV-IB8.text" = "Snooze";
+
+/* Class = "IBUILabel"; text = "Last sync: January 09, 2013, 12:00 AM"; ObjectID = "djY-iw-RfQ"; */
+"djY-iw-RfQ.text" = "Dernière synchronisation: January 09, 2013, 12:00 MATIN";
+
+/* Class = "IBUILabel"; text = "DISTANCE"; ObjectID = "dnZ-5i-gle"; */
+"dnZ-5i-gle.text" = "DISTANCE";
+
+/* Class = "IBUILabel"; text = "Auto sync alert"; ObjectID = "e09-ZH-raj"; */
+"e09-ZH-raj.text" = "Alerte de synchronisation automatique";
+
+/* Class = "IBUILabel"; text = "10%"; ObjectID = "eHK-a0-WzI"; */
+"eHK-a0-WzI.text" = "10%";
+
+/* Class = "IBUILabel"; text = "WEIGHT"; ObjectID = "efr-5r-OSZ"; */
+"efr-5r-OSZ.text" = "POIDS";
+
+/* Class = "IBUILabel"; text = "12AM"; ObjectID = "f1o-n8-w6Y"; */
+"f1o-n8-w6Y.text" = "12MATIN";
+
+/* Class = "IBUILabel"; text = "Workout 1 of 2"; ObjectID = "fBw-ih-cA2"; */
+"fBw-ih-cA2.text" = "Exercice 1 of 2";
+
+/* Class = "IBUILabel"; text = "US"; ObjectID = "fj9-RJ-rM5"; */
+"fj9-RJ-rM5.text" = "US";
+
+/* Class = "IBUIBarButtonItem"; title = "     "; ObjectID = "fsm-WS-ZYK"; */
+"fsm-WS-ZYK.title" = "     ";
+
+/* Class = "IBUIButton"; normalTitle = "Connect your watch"; ObjectID = "g9x-6s-vKv"; */
+"g9x-6s-vKv.normalTitle" = "Connect your watch";
+
+/* Class = "IBUILabel"; text = "0 times"; ObjectID = "gUy-rH-MNw"; */
+"gUy-rH-MNw.text" = "0 fois";
+
+/* Class = "IBUIButton"; normalTitle = "Alarm Settings"; ObjectID = "gfQ-Zz-xyI"; */
+"gfQ-Zz-xyI.normalTitle" = "Alarm Settings";
+
+/* Class = "IBUINavigationItem"; title = "Pulsewave Analysis"; ObjectID = "gvX-Xv-4Ee"; */
+"gvX-Xv-4Ee.title" = "Pulsewave Analysis";
+
+/* Class = "IBUIBarButtonItem"; title = "Menu"; ObjectID = "h26-Vj-gXw"; */
+"h26-Vj-gXw.title" = "Menu";
+
+/* Class = "IBUILabel"; text = "Verify your personal details below."; ObjectID = "hAY-p4-ots"; */
+"hAY-p4-ots.text" = "Vérifiez vos détails personneles ci-dessous.";
+
+/* Class = "IBUILabel"; text = "Dashboard"; ObjectID = "hUT-w3-aCc"; */
+"hUT-w3-aCc.text" = "Dashboard";
+
+/* Class = "IBUILabel"; text = "Nov 30, 2013, 6:00 PM"; ObjectID = "i4B-UF-ss3"; */
+"i4B-UF-ss3.text" = "Nóv. 30, 2013, 6:00 APRÈS-MIDI";
+
+/* Class = "IBUILabel"; text = "HEART RATE"; ObjectID = "ipl-yg-R0X"; */
+"ipl-yg-R0X.text" = "FRÉQ CARD";
+
+/* Class = "IBUILabel"; text = "8 hours"; ObjectID = "jSG-4E-9gj"; */
+"jSG-4E-9gj.text" = "8 hours";
+
+/* Class = "IBUILabel"; text = "CALORIES"; ObjectID = "jui-7Q-oWc"; */
+"jui-7Q-oWc.text" = "CALORIES";
+
+/* Class = "IBUIBarButtonItem"; title = "Enable"; ObjectID = "k0t-z3-Yv9"; */
+"k0t-z3-Yv9.title" = "permettre";
+
+/* Class = "IBUILabel"; text = "0 times"; ObjectID = "koL-lD-tua"; */
+"koL-lD-tua.text" = "0 fois";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "lRz-FV-CtT"; */
+"lRz-FV-CtT.normalTitle" = "Annuler";
+
+/* Class = "IBUINavigationItem"; title = "Workout"; ObjectID = "lSq-iN-ns3"; */
+"lSq-iN-ns3.title" = "Exercice";
+
+/* Class = "IBUILabel"; text = "HEART RATE"; ObjectID = "lXr-ct-WD6"; */
+"lXr-ct-WD6.text" = "FRÉQ CARD";
+
+/* Class = "IBUILabel"; text = "10:00 AM"; ObjectID = "ln2-6F-fLp"; */
+"ln2-6F-fLp.text" = "10:00 MATIN";
+
+/* Class = "IBUITextField"; text = "65"; ObjectID = "lt5-dM-A6l"; */
+"lt5-dM-A6l.text" = "65";
+
+/* Class = "IBUILabel"; text = "TODAY'S SLEEP"; ObjectID = "mCi-I8-Nag"; */
+"mCi-I8-Nag.text" = "DE SOMMEIL AUJOURD'HUI";
+
+/* Class = "IBUILabel"; text = "Move C300"; ObjectID = "mRX-X7-ySA"; */
+"mRX-X7-ySA.text" = "Move C300";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "mRx-Yz-BMk"; */
+"mRx-Yz-BMk.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "ACTIVE"; ObjectID = "mUT-pw-r62"; */
+"mUT-pw-r62.text" = "ACTIF";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "mej-oc-tii"; */
+"mej-oc-tii.text" = "1000";
+
+/* Class = "IBUILabel"; text = "Auto sync"; ObjectID = "nEB-4B-K3a"; */
+"nEB-4B-K3a.text" = "Auto sync";
+
+/* Class = "IBUILabel"; text = "SLEEP LOGS"; ObjectID = "nMk-Is-Ji4"; */
+"nMk-Is-Ji4.text" = "JOURNAUX DE SOMMEIL";
+
+/* Class = "IBUILabel"; text = "Weight"; ObjectID = "nf1-ic-p40"; */
+"nf1-ic-p40.text" = "Poids";
+
+/* Class = "IBUIButton"; normalTitle = "STEPS"; ObjectID = "nk9-Ee-JJ0"; */
+"nk9-Ee-JJ0.normalTitle" = "PAS";
+
+/* Class = "IBUILabel"; text = "Workout 1"; ObjectID = "nzq-qC-oSI"; */
+"nzq-qC-oSI.text" = "Exercice 1";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "o08-po-rd9"; */
+"o08-po-rd9.text" = "1000";
+
+/* Class = "IBUILabel"; text = "male"; ObjectID = "oDY-Yw-OOO"; */
+"oDY-Yw-OOO.text" = "homme";
+
+/* Class = "IBUILabel"; text = "10%"; ObjectID = "ot2-l8-5zA"; */
+"ot2-l8-5zA.text" = "10%";
+
+/* Class = "IBUILabel"; text = "GENDER"; ObjectID = "p6B-y5-qfz"; */
+"p6B-y5-qfz.text" = "SEXE";
+
+/* Class = "IBUILabel"; text = "0 times"; ObjectID = "pAO-fg-h0o"; */
+"pAO-fg-h0o.text" = "0 fois";
+
+/* Class = "IBUILabel"; text = "Last Sync:"; ObjectID = "q4f-aw-KSu"; */
+"q4f-aw-KSu.text" = "Dernière synchronisation:";
+
+/* Class = "IBUILabel"; text = "YOUR PROFILE"; ObjectID = "qB5-3d-bW8"; */
+"qB5-3d-bW8.text" = "VOTRE PROFIL";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "qP1-vj-3eT"; */
+"qP1-vj-3eT.text" = "0";
+
+/* Class = "IBUILabel"; text = "BPM"; ObjectID = "qq8-Et-Nyc"; */
+"qq8-Et-Nyc.text" = "BPM";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "qqZ-z5-wfg"; */
+"qqZ-z5-wfg.text" = "1";
+
+/* Class = "IBUILabel"; text = "Battery level"; ObjectID = "rXD-v8-kmv"; */
+"rXD-v8-kmv.text" = "Battery level";
+
+/* Class = "IBUILabel"; text = "cm"; ObjectID = "rfL-iZ-L06"; */
+"rfL-iZ-L06.text" = "cm";
+
+/* Class = "IBUILabel"; text = "JANUARY 2-7, 2013"; ObjectID = "rid-8x-lbc"; */
+"rid-8x-lbc.text" = "JANUARY 2-7, 2013";
+
+/* Class = "IBUILabel"; text = "Don't forget to record your sleep!"; ObjectID = "rlv-pY-cOQ"; */
+"rlv-pY-cOQ.text" = "Don't forget to record your sleep!";
+
+/* Class = "IBUILabel"; text = "Synced Yesterday at 12:20 PM"; ObjectID = "rxm-WL-Xda"; */
+"rxm-WL-Xda.text" = "Hier à synchronisé 12:20 APRÈS-MIDI";
+
+/* Class = "IBUINavigationItem"; title = "Notes"; ObjectID = "s0E-Vj-0Id"; */
+"s0E-Vj-0Id.title" = "Notes";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "s91-AO-142"; */
+"s91-AO-142.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "No heart rate recorded for the day."; ObjectID = "sDk-6A-fLw"; */
+"sDk-6A-fLw.text" = "Aucune fréquence cardiaque enregistrée ce jour.";
+
+/* Class = "IBUILabel"; text = "Press and hold lower right button to begin pairing."; ObjectID = "sjM-YV-GCE"; */
+"sjM-YV-GCE.text" = "Maintenez le bouton inférieur droit enfoncé pour commencer la mise à jour.";
+
+/* Class = "IBUINavigationItem"; title = "Pair Device"; ObjectID = "tpU-9F-2gZ"; */
+"tpU-9F-2gZ.title" = "Pair Device";
+
+/* Class = "IBUITextField"; text = "65"; ObjectID = "tsS-dr-3Zm"; */
+"tsS-dr-3Zm.text" = "65";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "unV-Lx-xbx"; */
+"unV-Lx-xbx.text" = "1";
+
+/* Class = "IBUILabel"; text = "Distance"; ObjectID = "uqP-vX-84S"; */
+"uqP-vX-84S.text" = "Distance";
+
+/* Class = "IBUILabel"; text = "Don't forget to record your workout!"; ObjectID = "uzW-pq-UBN"; */
+"uzW-pq-UBN.text" = "Don't forget to record your workout!";
+
+/* Class = "IBUILabel"; text = "Move C300"; ObjectID = "vNO-BQ-3Do"; */
+"vNO-BQ-3Do.text" = "Move C300";
+
+/* Class = "IBUILabel"; text = "min"; ObjectID = "vRA-xw-pcC"; */
+"vRA-xw-pcC.text" = "min";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "vSo-JK-9m3"; */
+"vSo-JK-9m3.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Last sync: January 09, 2013, 12:00 AM"; ObjectID = "vVf-rO-Dzz"; */
+"vVf-rO-Dzz.text" = "Dernière synchronisation: January 09, 2013, 12:00 MATIN";
+
+/* Class = "IBUILabel"; text = "METRIC"; ObjectID = "vYy-Rm-niA"; */
+"vYy-Rm-niA.text" = "MÉTRIQUES";
+
+/* Class = "IBUIBarButtonItem"; title = "     "; ObjectID = "wJM-8c-22p"; */
+"wJM-8c-22p.title" = "     ";
+
+/* Class = "IBUIButton"; normalTitle = "CONNNECT TO DEVICE"; ObjectID = "wM2-gC-lTF"; */
+"wM2-gC-lTF.normalTitle" = "CONNNECT TO DEVICE";
+
+/* Class = "IBUILabel"; text = "3000 kcal"; ObjectID = "wWh-fJ-Oiu"; */
+"wWh-fJ-Oiu.text" = "3000 kcal";
+
+/* Class = "IBUILabel"; text = "10"; ObjectID = "wfz-re-Gjj"; */
+"wfz-re-Gjj.text" = "10";
+
+/* Class = "IBUIButton"; normalTitle = "Add a note"; ObjectID = "wtg-u8-h4n"; */
+"wtg-u8-h4n.normalTitle" = "Add a note";
+
+/* Class = "IBUILabel"; text = "10%"; ObjectID = "xh3-eN-D0B"; */
+"xh3-eN-D0B.text" = "10%";
+
+/* Class = "IBUILabel"; text = "m"; ObjectID = "yEP-tl-BeY"; */
+"yEP-tl-BeY.text" = "m";
+
+/* Class = "IBUILabel"; text = "Your profile details will be used \nto calculate your fitness results."; ObjectID = "yHd-ei-o7I"; */
+"yHd-ei-o7I.text" = "Les détails de votre profil seront utilisés pour calculer les résultats de votre conditionnement.";
+
+/* Class = "IBUILabel"; text = "h"; ObjectID = "yvb-hg-p4g"; */
+"yvb-hg-p4g.text" = "h";
+
+/* Class = "IBUILabel"; text = "Syncing"; ObjectID = "zOA-r5-B7J"; */
+"zOA-r5-B7J.text" = "Synchronisation";
+
+/* Class = "IBUILabel"; text = "1,000"; ObjectID = "zwO-Kn-dsZ"; */
+"zwO-Kn-dsZ.text" = "1,000";
